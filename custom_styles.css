@@ -1,0 +1,49 @@
+/* custom_styles.css */
+
+/* Change the header color */
+.skin-blue .main-header .logo {
+  background-color: #267BB4;
+}
+
+.skin-blue .main-header .navbar {
+  background-color: #267BB4;
+}
+
+/* Change the sidebar color */
+.skin-blue .main-sidebar {
+  background-color: #8E8E8E;
+}
+
+/* Optional: Change the sidebar menu item hover and active states */
+.skin-blue .main-sidebar .sidebar .sidebar-menu .active a {
+  background-color: #6E6E6E;
+}
+
+.skin-blue .main-sidebar .sidebar .sidebar-menu a:hover {
+  background-color: #6E6E6E;
+}
+
+/* Change the color of the slider input */
+.irs--shiny .irs-bar,
+.irs--shiny .irs-bar-edge,
+.irs--shiny .irs-single,
+.irs--shiny .irs-grid-pol {
+  background-color: #267BB4 !important; /* Adjust this to your desired color */
+}
+
+.irs--shiny .irs-bar {
+  border-top: 1px solid #8E8E8E !important; /* Adjust this to your desired color */
+  border-bottom: 1px solid #8E8E8E !important; /* Adjust this to your desired color */
+}
+
+.irs--shiny .irs-from,
+.irs--shiny .irs-to,
+.irs--shiny .irs-single {
+  background-color: #8E8E8E !important; /* Adjust this to your desired color */
+  color: white !important;
+}
+
+.irs--shiny .irs-handle {
+  background-color: #267BB4 !important;
+  border: 1px solid #267BB4 !important;
+}

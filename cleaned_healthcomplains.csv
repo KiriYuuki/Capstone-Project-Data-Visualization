@@ -1,0 +1,3061 @@
+Province,Year,Gender,Area_Type,Percentage
+Aceh,2009,Male,Urban,28.93
+Aceh,2009,Male,Rural,34.44
+Aceh,2009,Male,Urban+Rural,32.86
+Aceh,2009,Female,Urban,31.19
+Aceh,2009,Female,Rural,40.12
+Aceh,2009,Female,Urban+Rural,37.57
+Aceh,2010,Male,Urban,30.16
+Aceh,2010,Male,Rural,34.41
+Aceh,2010,Male,Urban+Rural,33.22
+Aceh,2010,Female,Urban,33.71
+Aceh,2010,Female,Rural,38.22
+Aceh,2010,Female,Urban+Rural,36.95
+Aceh,2011,Male,Urban,26.88
+Aceh,2011,Male,Rural,30
+Aceh,2011,Male,Urban+Rural,29.13
+Aceh,2011,Female,Urban,32.63
+Aceh,2011,Female,Rural,30.8
+Aceh,2011,Female,Urban+Rural,32.11
+Aceh,2012,Male,Urban,26.85
+Aceh,2012,Male,Rural,29.6
+Aceh,2012,Male,Urban+Rural,28.82
+Aceh,2012,Female,Urban,30.47
+Aceh,2012,Female,Rural,33.44
+Aceh,2012,Female,Urban+Rural,32.61
+Aceh,2013,Male,Urban,24.05933914
+Aceh,2013,Male,Rural,28.74760098
+Aceh,2013,Male,Urban+Rural,27.41582084
+Aceh,2013,Female,Urban,26.82153942
+Aceh,2013,Female,Rural,31.87858981
+Aceh,2013,Female,Urban+Rural,30.45900615
+Aceh,2014,Male,Urban,25.12014636
+Aceh,2014,Male,Rural,30.72913296
+Aceh,2014,Male,Urban+Rural,29.1296823
+Aceh,2014,Female,Urban,27.2331708
+Aceh,2014,Female,Rural,33.81060417
+Aceh,2014,Female,Urban+Rural,31.95953161
+Aceh,2015,Male,Urban,24.03131538
+Aceh,2015,Male,Rural,26.09564904
+Aceh,2015,Male,Urban+Rural,25.50548532
+Aceh,2015,Female,Urban,28.90231714
+Aceh,2015,Female,Rural,30.88120447
+Aceh,2015,Female,Urban+Rural,30.32338366
+Aceh,2016,Male,Urban,23.47251126
+Aceh,2016,Male,Rural,23.78822213
+Aceh,2016,Male,Urban+Rural,23.69584406
+Aceh,2016,Female,Urban,27.01681197
+Aceh,2016,Female,Rural,28.18503601
+Aceh,2016,Female,Urban+Rural,27.84781544
+Aceh,2017,Male,Urban,22.33111464
+Aceh,2017,Male,Rural,23.32515458
+Aceh,2017,Male,Urban+Rural,23.02506874
+Aceh,2017,Female,Urban,26.010208
+Aceh,2017,Female,Rural,26.95937541
+Aceh,2017,Female,Urban+Rural,26.67582112
+Aceh,2018,Male,Urban,24.71158488
+Aceh,2018,Male,Rural,28.91484792
+Aceh,2018,Male,Urban+Rural,27.59014498
+Aceh,2018,Female,Urban,29.6106079
+Aceh,2018,Female,Rural,34.18280236
+Aceh,2018,Female,Urban+Rural,32.75607906
+Aceh,2019,Male,Urban,26.96970027
+Aceh,2019,Male,Rural,27.37347703
+Aceh,2019,Male,Urban+Rural,27.23946624
+Aceh,2019,Female,Urban,29.70107999
+Aceh,2019,Female,Rural,32.22312251
+Aceh,2019,Female,Urban+Rural,31.42184106
+Aceh,2020,Male,Urban,24.68190463
+Aceh,2020,Male,Rural,24.91247939
+Aceh,2020,Male,Urban+Rural,24.83583386
+Aceh,2020,Female,Urban,28.95379956
+Aceh,2020,Female,Rural,29.60864177
+Aceh,2020,Female,Urban+Rural,29.40069428
+Aceh,2021,Male,Urban,24.29039315
+Aceh,2021,Male,Rural,21.80790746
+Aceh,2021,Male,Urban+Rural,22.65366494
+Aceh,2021,Female,Urban,29.77931793
+Aceh,2021,Female,Rural,26.62350503
+Aceh,2021,Female,Urban+Rural,27.65991245
+Aceh,2022,Male,Urban,23.90131204
+Aceh,2022,Male,Rural,31.03012239
+Aceh,2022,Male,Urban+Rural,28.59877259
+Aceh,2022,Female,Urban,30.41517758
+Aceh,2022,Female,Rural,36.83495048
+Aceh,2022,Female,Urban+Rural,34.65859813
+Aceh,2023,Male,Urban,24.67732247
+Aceh,2023,Male,Rural,26.32095369
+Aceh,2023,Male,Urban+Rural,25.75167047
+Aceh,2023,Female,Urban,28.0743014
+Aceh,2023,Female,Rural,30.46792739
+Aceh,2023,Female,Urban+Rural,29.64044416
+Sumatera Utara,2009,Male,Urban,25.4
+Sumatera Utara,2009,Male,Rural,31.65
+Sumatera Utara,2009,Male,Urban+Rural,28.77
+Sumatera Utara,2009,Female,Urban,25.74
+Sumatera Utara,2009,Female,Rural,32.61
+Sumatera Utara,2009,Female,Urban+Rural,29.44
+Sumatera Utara,2010,Male,Urban,23.14
+Sumatera Utara,2010,Male,Rural,28.87
+Sumatera Utara,2010,Male,Urban+Rural,26.07
+Sumatera Utara,2010,Female,Urban,24.57
+Sumatera Utara,2010,Female,Rural,29.96
+Sumatera Utara,2010,Female,Urban+Rural,27.3
+Sumatera Utara,2011,Male,Urban,24.3
+Sumatera Utara,2011,Male,Rural,26.78
+Sumatera Utara,2011,Male,Urban+Rural,25.56
+Sumatera Utara,2011,Female,Urban,26.55
+Sumatera Utara,2011,Female,Rural,24.05
+Sumatera Utara,2011,Female,Urban+Rural,25.32
+Sumatera Utara,2012,Male,Urban,17.76
+Sumatera Utara,2012,Male,Rural,21.26
+Sumatera Utara,2012,Male,Urban+Rural,19.54
+Sumatera Utara,2012,Female,Urban,20.23
+Sumatera Utara,2012,Female,Rural,22.84
+Sumatera Utara,2012,Female,Urban+Rural,21.55
+Sumatera Utara,2013,Male,Urban,20.80727192
+Sumatera Utara,2013,Male,Rural,20.65448948
+Sumatera Utara,2013,Male,Urban+Rural,20.72959549
+Sumatera Utara,2013,Female,Urban,21.98469422
+Sumatera Utara,2013,Female,Rural,21.77087368
+Sumatera Utara,2013,Female,Urban+Rural,21.87654258
+Sumatera Utara,2014,Male,Urban,23.08171254
+Sumatera Utara,2014,Male,Rural,23.36643506
+Sumatera Utara,2014,Male,Urban+Rural,23.22648968
+Sumatera Utara,2014,Female,Urban,24.04278908
+Sumatera Utara,2014,Female,Rural,23.68703083
+Sumatera Utara,2014,Female,Urban+Rural,23.86280932
+Sumatera Utara,2015,Male,Urban,21.53489619
+Sumatera Utara,2015,Male,Rural,22.75210812
+Sumatera Utara,2015,Male,Urban+Rural,22.15124226
+Sumatera Utara,2015,Female,Urban,23.26601328
+Sumatera Utara,2015,Female,Rural,24.57115924
+Sumatera Utara,2015,Female,Urban+Rural,23.92282557
+Sumatera Utara,2016,Male,Urban,21.49479721
+Sumatera Utara,2016,Male,Rural,21.94499029
+Sumatera Utara,2016,Male,Urban+Rural,21.71893851
+Sumatera Utara,2016,Female,Urban,24.08695753
+Sumatera Utara,2016,Female,Rural,23.99993301
+Sumatera Utara,2016,Female,Urban+Rural,24.04391758
+Sumatera Utara,2017,Male,Urban,22.43909198
+Sumatera Utara,2017,Male,Rural,22.34032803
+Sumatera Utara,2017,Male,Urban+Rural,22.39056929
+Sumatera Utara,2017,Female,Urban,24.43966211
+Sumatera Utara,2017,Female,Rural,24.80316123
+Sumatera Utara,2017,Female,Urban+Rural,24.61743968
+Sumatera Utara,2018,Male,Urban,23.00213833
+Sumatera Utara,2018,Male,Rural,24.24564021
+Sumatera Utara,2018,Male,Urban+Rural,23.58996581
+Sumatera Utara,2018,Female,Urban,26.25907943
+Sumatera Utara,2018,Female,Rural,25.98954857
+Sumatera Utara,2018,Female,Urban+Rural,26.13230562
+Sumatera Utara,2019,Male,Urban,24.24928169
+Sumatera Utara,2019,Male,Rural,24.85858527
+Sumatera Utara,2019,Male,Urban+Rural,24.52359091
+Sumatera Utara,2019,Female,Urban,28.41807368
+Sumatera Utara,2019,Female,Rural,27.59062902
+Sumatera Utara,2019,Female,Urban+Rural,28.03463807
+Sumatera Utara,2020,Male,Urban,23.2080878
+Sumatera Utara,2020,Male,Rural,26.40458954
+Sumatera Utara,2020,Male,Urban+Rural,24.64449914
+Sumatera Utara,2020,Female,Urban,26.54199157
+Sumatera Utara,2020,Female,Rural,28.80645957
+Sumatera Utara,2020,Female,Urban+Rural,27.59233036
+Sumatera Utara,2021,Male,Urban,18.08321138
+Sumatera Utara,2021,Male,Rural,20.14951128
+Sumatera Utara,2021,Male,Urban+Rural,18.99337471
+Sumatera Utara,2021,Female,Urban,20.87308095
+Sumatera Utara,2021,Female,Rural,23.18231691
+Sumatera Utara,2021,Female,Urban+Rural,21.91533964
+Sumatera Utara,2022,Male,Urban,26.24351062
+Sumatera Utara,2022,Male,Rural,28.95554361
+Sumatera Utara,2022,Male,Urban+Rural,27.42112942
+Sumatera Utara,2022,Female,Urban,30.59590179
+Sumatera Utara,2022,Female,Rural,34.26242887
+Sumatera Utara,2022,Female,Urban+Rural,32.16513956
+Sumatera Utara,2023,Male,Urban,20.17806117
+Sumatera Utara,2023,Male,Rural,25.94704395
+Sumatera Utara,2023,Male,Urban+Rural,22.68674512
+Sumatera Utara,2023,Female,Urban,22.39035793
+Sumatera Utara,2023,Female,Rural,28.02279353
+Sumatera Utara,2023,Female,Urban+Rural,24.82130389
+Sumatera Barat,2009,Male,Urban,30.16
+Sumatera Barat,2009,Male,Rural,38.22
+Sumatera Barat,2009,Male,Urban+Rural,35.44
+Sumatera Barat,2009,Female,Urban,30
+Sumatera Barat,2009,Female,Rural,38.29
+Sumatera Barat,2009,Female,Urban+Rural,35.44
+Sumatera Barat,2010,Male,Urban,30.02
+Sumatera Barat,2010,Male,Rural,34.59
+Sumatera Barat,2010,Male,Urban+Rural,32.82
+Sumatera Barat,2010,Female,Urban,31.75
+Sumatera Barat,2010,Female,Rural,34.94
+Sumatera Barat,2010,Female,Urban+Rural,33.7
+Sumatera Barat,2011,Male,Urban,27.16
+Sumatera Barat,2011,Male,Rural,29.49
+Sumatera Barat,2011,Male,Urban+Rural,28.59
+Sumatera Barat,2011,Female,Urban,31.09
+Sumatera Barat,2011,Female,Rural,28.29
+Sumatera Barat,2011,Female,Urban+Rural,30
+Sumatera Barat,2012,Male,Urban,26.76
+Sumatera Barat,2012,Male,Rural,30.89
+Sumatera Barat,2012,Male,Urban+Rural,29.29
+Sumatera Barat,2012,Female,Urban,28.36
+Sumatera Barat,2012,Female,Rural,32.09
+Sumatera Barat,2012,Female,Urban+Rural,30.64
+Sumatera Barat,2013,Male,Urban,28.29783365
+Sumatera Barat,2013,Male,Rural,28.13860636
+Sumatera Barat,2013,Male,Urban+Rural,28.20065835
+Sumatera Barat,2013,Female,Urban,31.81800683
+Sumatera Barat,2013,Female,Rural,29.88779344
+Sumatera Barat,2013,Female,Urban+Rural,30.64066409
+Sumatera Barat,2014,Male,Urban,31.60853092
+Sumatera Barat,2014,Male,Rural,30.86187828
+Sumatera Barat,2014,Male,Urban+Rural,31.15363321
+Sumatera Barat,2014,Female,Urban,32.70971259
+Sumatera Barat,2014,Female,Rural,32.25791157
+Sumatera Barat,2014,Female,Urban+Rural,32.4343501
+Sumatera Barat,2015,Male,Urban,26.81401284
+Sumatera Barat,2015,Male,Rural,27.91783483
+Sumatera Barat,2015,Male,Urban+Rural,27.47945884
+Sumatera Barat,2015,Female,Urban,30.41822277
+Sumatera Barat,2015,Female,Rural,30.293161220000002
+Sumatera Barat,2015,Female,Urban+Rural,30.34280499
+Sumatera Barat,2016,Male,Urban,28.96618789
+Sumatera Barat,2016,Male,Rural,28.23069412
+Sumatera Barat,2016,Male,Urban+Rural,28.53184939
+Sumatera Barat,2016,Female,Urban,30.65377745
+Sumatera Barat,2016,Female,Rural,29.91854653
+Sumatera Barat,2016,Female,Urban+Rural,30.21937727
+Sumatera Barat,2017,Male,Urban,28.91195897
+Sumatera Barat,2017,Male,Rural,26.22680285
+Sumatera Barat,2017,Male,Urban+Rural,27.33932723
+Sumatera Barat,2017,Female,Urban,32.02397227
+Sumatera Barat,2017,Female,Rural,29.02164124
+Sumatera Barat,2017,Female,Urban+Rural,30.26790182
+Sumatera Barat,2018,Male,Urban,27.53845579
+Sumatera Barat,2018,Male,Rural,26.82762487
+Sumatera Barat,2018,Male,Urban+Rural,27.1405555
+Sumatera Barat,2018,Female,Urban,32.32209175
+Sumatera Barat,2018,Female,Rural,31.00303285
+Sumatera Barat,2018,Female,Urban+Rural,31.58490819
+Sumatera Barat,2019,Male,Urban,28.73359808
+Sumatera Barat,2019,Male,Rural,27.14932577
+Sumatera Barat,2019,Male,Urban+Rural,27.90219528
+Sumatera Barat,2019,Female,Urban,33.80652798
+Sumatera Barat,2019,Female,Rural,29.97793722
+Sumatera Barat,2019,Female,Urban+Rural,31.7538868
+Sumatera Barat,2020,Male,Urban,30.45840119
+Sumatera Barat,2020,Male,Rural,27.01672897
+Sumatera Barat,2020,Male,Urban+Rural,28.65286883
+Sumatera Barat,2020,Female,Urban,36.31743116
+Sumatera Barat,2020,Female,Rural,31.08485371
+Sumatera Barat,2020,Female,Urban+Rural,33.51507334
+Sumatera Barat,2021,Male,Urban,25.04289727
+Sumatera Barat,2021,Male,Rural,20.3884546
+Sumatera Barat,2021,Male,Urban+Rural,22.70002608
+Sumatera Barat,2021,Female,Urban,28.92031274
+Sumatera Barat,2021,Female,Rural,23.85003053
+Sumatera Barat,2021,Female,Urban+Rural,26.31185061
+Sumatera Barat,2022,Male,Urban,15.20090023
+Sumatera Barat,2022,Male,Rural,36.01769971
+Sumatera Barat,2022,Male,Urban+Rural,25.91665496
+Sumatera Barat,2022,Female,Urban,19.38393799
+Sumatera Barat,2022,Female,Rural,41.70034964
+Sumatera Barat,2022,Female,Urban+Rural,30.69469397
+Sumatera Barat,2023,Male,Urban,26.96995386
+Sumatera Barat,2023,Male,Rural,25.78395998
+Sumatera Barat,2023,Male,Urban+Rural,26.37695816
+Sumatera Barat,2023,Female,Urban,32.02879325
+Sumatera Barat,2023,Female,Rural,30.88999135
+Sumatera Barat,2023,Female,Urban+Rural,31.46109921
+Riau,2009,Male,Urban,27.13
+Riau,2009,Male,Rural,32.48
+Riau,2009,Male,Urban+Rural,29.77
+Riau,2009,Female,Urban,27.11
+Riau,2009,Female,Rural,32.91
+Riau,2009,Female,Urban+Rural,30.01
+Riau,2010,Male,Urban,32.27
+Riau,2010,Male,Rural,29.19
+Riau,2010,Male,Urban+Rural,30.39
+Riau,2010,Female,Urban,31.97
+Riau,2010,Female,Rural,31.1
+Riau,2010,Female,Urban+Rural,31.45
+Riau,2011,Male,Urban,24.32
+Riau,2011,Male,Rural,24.99
+Riau,2011,Male,Urban+Rural,24.73
+Riau,2011,Female,Urban,25.61
+Riau,2011,Female,Rural,23.92
+Riau,2011,Female,Urban+Rural,24.95
+Riau,2012,Male,Urban,26.4
+Riau,2012,Male,Rural,22.12
+Riau,2012,Male,Urban+Rural,23.79
+Riau,2012,Female,Urban,26.78
+Riau,2012,Female,Rural,23.91
+Riau,2012,Female,Urban+Rural,25.05
+Riau,2013,Male,Urban,24.03961223
+Riau,2013,Male,Rural,23.69754748
+Riau,2013,Male,Urban+Rural,23.83116161
+Riau,2013,Female,Urban,24.23871148
+Riau,2013,Female,Rural,24.27646157
+Riau,2013,Female,Urban+Rural,24.26160688
+Riau,2014,Male,Urban,25.43802521
+Riau,2014,Male,Rural,25.23515519
+Riau,2014,Male,Urban+Rural,25.31436809
+Riau,2014,Female,Urban,26.81676014
+Riau,2014,Female,Rural,27.32464532
+Riau,2014,Female,Urban+Rural,27.12485708
+Riau,2015,Male,Urban,29.5594647
+Riau,2015,Male,Rural,28.09780434
+Riau,2015,Male,Urban+Rural,28.66297491
+Riau,2015,Female,Urban,30.75059698
+Riau,2015,Female,Rural,30.84132888
+Riau,2015,Female,Urban+Rural,30.80589685
+Riau,2016,Male,Urban,29.54319814
+Riau,2016,Male,Rural,25.48835726
+Riau,2016,Male,Urban+Rural,27.07292007
+Riau,2016,Female,Urban,30.09913194
+Riau,2016,Female,Rural,27.86788225
+Riau,2016,Female,Urban+Rural,28.75045944
+Riau,2017,Male,Urban,24.79644376
+Riau,2017,Male,Rural,26.43123893
+Riau,2017,Male,Urban+Rural,25.78367864
+Riau,2017,Female,Urban,27.95910541
+Riau,2017,Female,Rural,29.45906295
+Riau,2017,Female,Urban+Rural,28.86026177
+Riau,2018,Male,Urban,27.00179779
+Riau,2018,Male,Rural,29.89481508
+Riau,2018,Male,Urban+Rural,28.73155857
+Riau,2018,Female,Urban,29.76740908
+Riau,2018,Female,Rural,31.07443936
+Riau,2018,Female,Urban+Rural,30.54495272
+Riau,2019,Male,Urban,25.02889999
+Riau,2019,Male,Rural,25.20362203
+Riau,2019,Male,Urban+Rural,25.13212182
+Riau,2019,Female,Urban,29.80512425
+Riau,2019,Female,Rural,26.49057463
+Riau,2019,Female,Urban+Rural,27.81048315
+Riau,2020,Male,Urban,25.30013699
+Riau,2020,Male,Rural,22.4169056
+Riau,2020,Male,Urban+Rural,23.59607729
+Riau,2020,Female,Urban,28.32294633
+Riau,2020,Female,Rural,24.10785828
+Riau,2020,Female,Urban+Rural,25.78410265
+Riau,2021,Male,Urban,31.56898727
+Riau,2021,Male,Rural,15.79655793
+Riau,2021,Male,Urban+Rural,22.19202031
+Riau,2021,Female,Urban,31.38012866
+Riau,2021,Female,Rural,18.19332922
+Riau,2021,Female,Urban+Rural,23.40213554
+Riau,2022,Male,Urban,22.00178535
+Riau,2022,Male,Rural,28.68490922
+Riau,2022,Male,Urban+Rural,26.04864783
+Riau,2022,Female,Urban,24.5959885
+Riau,2022,Female,Rural,30.91687339
+Riau,2022,Female,Urban+Rural,28.33256692
+Riau,2023,Male,Urban,22.46402959
+Riau,2023,Male,Rural,22.35447947
+Riau,2023,Male,Urban+Rural,22.39796402
+Riau,2023,Female,Urban,27.86572789
+Riau,2023,Female,Rural,25.19517576
+Riau,2023,Female,Urban+Rural,26.28212538
+Jambi,2009,Male,Urban,22.63
+Jambi,2009,Male,Rural,28.48
+Jambi,2009,Male,Urban+Rural,26.61
+Jambi,2009,Female,Urban,23.88
+Jambi,2009,Female,Rural,27.46
+Jambi,2009,Female,Urban+Rural,26.28
+Jambi,2010,Male,Urban,29.38
+Jambi,2010,Male,Rural,29.7
+Jambi,2010,Male,Urban+Rural,29.61
+Jambi,2010,Female,Urban,29.22
+Jambi,2010,Female,Rural,29.83
+Jambi,2010,Female,Urban+Rural,29.64
+Jambi,2011,Male,Urban,17.84
+Jambi,2011,Male,Rural,23.88
+Jambi,2011,Male,Urban+Rural,22.03
+Jambi,2011,Female,Urban,25.58
+Jambi,2011,Female,Rural,19.01
+Jambi,2011,Female,Urban+Rural,23.55
+Jambi,2012,Male,Urban,21.62
+Jambi,2012,Male,Rural,20.52
+Jambi,2012,Male,Urban+Rural,20.85
+Jambi,2012,Female,Urban,21.14
+Jambi,2012,Female,Rural,22.03
+Jambi,2012,Female,Urban+Rural,21.76
+Jambi,2013,Male,Urban,17.20022274
+Jambi,2013,Male,Rural,21.04865656
+Jambi,2013,Male,Urban+Rural,19.88265563
+Jambi,2013,Female,Urban,18.42890212
+Jambi,2013,Female,Rural,22.82708415
+Jambi,2013,Female,Urban+Rural,21.46991331
+Jambi,2014,Male,Urban,21.10311621
+Jambi,2014,Male,Rural,21.98594877
+Jambi,2014,Male,Urban+Rural,21.71919446
+Jambi,2014,Female,Urban,21.1737645
+Jambi,2014,Female,Rural,22.52348083
+Jambi,2014,Female,Urban+Rural,22.1081911
+Jambi,2015,Male,Urban,24.98671026
+Jambi,2015,Male,Rural,22.60291975
+Jambi,2015,Male,Urban+Rural,23.319562
+Jambi,2015,Female,Urban,26.16841892
+Jambi,2015,Female,Rural,25.3818868
+Jambi,2015,Female,Urban+Rural,25.623151
+Jambi,2016,Male,Urban,25.1127791
+Jambi,2016,Male,Rural,22.12680239
+Jambi,2016,Male,Urban+Rural,23.03701073
+Jambi,2016,Female,Urban,25.42642536
+Jambi,2016,Female,Rural,23.85504673
+Jambi,2016,Female,Urban+Rural,24.34513957
+Jambi,2017,Male,Urban,22.96611082
+Jambi,2017,Male,Rural,19.25937085
+Jambi,2017,Male,Urban+Rural,20.41613085
+Jambi,2017,Female,Urban,22.54115775
+Jambi,2017,Female,Rural,20.0456069
+Jambi,2017,Female,Urban+Rural,20.83896412
+Jambi,2018,Male,Urban,21.02545452
+Jambi,2018,Male,Rural,21.51324151
+Jambi,2018,Male,Urban+Rural,21.35823437
+Jambi,2018,Female,Urban,21.85224871
+Jambi,2018,Female,Rural,24.30529808
+Jambi,2018,Female,Urban+Rural,23.51287406
+Jambi,2019,Male,Urban,19.6598062
+Jambi,2019,Male,Rural,21.06453215
+Jambi,2019,Male,Urban+Rural,20.60680125
+Jambi,2019,Female,Urban,22.32034543
+Jambi,2019,Female,Rural,22.22409442
+Jambi,2019,Female,Urban+Rural,22.25527123
+Jambi,2020,Male,Urban,19.74831869
+Jambi,2020,Male,Rural,20.77755605
+Jambi,2020,Male,Urban+Rural,20.44279627
+Jambi,2020,Female,Urban,21.87732206
+Jambi,2020,Female,Rural,23.34689109
+Jambi,2020,Female,Urban+Rural,22.87196864
+Jambi,2021,Male,Urban,12.43584277
+Jambi,2021,Male,Rural,17.35296061
+Jambi,2021,Male,Urban+Rural,15.73344808
+Jambi,2021,Female,Urban,14.45952137
+Jambi,2021,Female,Rural,19.66122716
+Jambi,2021,Female,Urban+Rural,17.96239576
+Jambi,2022,Male,Urban,15.65865339
+Jambi,2022,Male,Rural,29.2517736
+Jambi,2022,Male,Urban+Rural,24.80729953
+Jambi,2022,Female,Urban,17.62766875
+Jambi,2022,Female,Rural,32.33795648
+Jambi,2022,Female,Urban+Rural,27.39896858
+Jambi,2023,Male,Urban,23.61783299
+Jambi,2023,Male,Rural,23.35438115
+Jambi,2023,Male,Urban+Rural,23.44090788
+Jambi,2023,Female,Urban,24.83504299
+Jambi,2023,Female,Rural,25.57867635
+Jambi,2023,Female,Urban+Rural,25.32914862
+Sumatera Selatan,2009,Male,Urban,35.84
+Sumatera Selatan,2009,Male,Rural,29.55
+Sumatera Selatan,2009,Male,Urban+Rural,31.95
+Sumatera Selatan,2009,Female,Urban,35.94
+Sumatera Selatan,2009,Female,Rural,30.28
+Sumatera Selatan,2009,Female,Urban+Rural,32.53
+Sumatera Selatan,2010,Male,Urban,31.83
+Sumatera Selatan,2010,Male,Rural,28.69
+Sumatera Selatan,2010,Male,Urban+Rural,29.79
+Sumatera Selatan,2010,Female,Urban,30.79
+Sumatera Selatan,2010,Female,Rural,28.87
+Sumatera Selatan,2010,Female,Urban+Rural,29.56
+Sumatera Selatan,2011,Male,Urban,30.69
+Sumatera Selatan,2011,Male,Rural,24.7
+Sumatera Selatan,2011,Male,Urban+Rural,26.81
+Sumatera Selatan,2011,Female,Urban,25.69
+Sumatera Selatan,2011,Female,Rural,30.91
+Sumatera Selatan,2011,Female,Urban+Rural,27.59
+Sumatera Selatan,2012,Male,Urban,26.53
+Sumatera Selatan,2012,Male,Rural,22.64
+Sumatera Selatan,2012,Male,Urban+Rural,24.02
+Sumatera Selatan,2012,Female,Urban,29.62
+Sumatera Selatan,2012,Female,Rural,23.58
+Sumatera Selatan,2012,Female,Urban+Rural,25.78
+Sumatera Selatan,2013,Male,Urban,28.62012924
+Sumatera Selatan,2013,Male,Rural,21.78923771
+Sumatera Selatan,2013,Male,Urban+Rural,24.21629248
+Sumatera Selatan,2013,Female,Urban,28.63524036
+Sumatera Selatan,2013,Female,Rural,22.31483611
+Sumatera Selatan,2013,Female,Urban+Rural,24.61740975
+Sumatera Selatan,2014,Male,Urban,30.01581827
+Sumatera Selatan,2014,Male,Rural,23.95426524
+Sumatera Selatan,2014,Male,Urban+Rural,26.10690889
+Sumatera Selatan,2014,Female,Urban,31.55822622
+Sumatera Selatan,2014,Female,Rural,25.04570622
+Sumatera Selatan,2014,Female,Urban+Rural,27.41572212
+Sumatera Selatan,2015,Male,Urban,33.62349118
+Sumatera Selatan,2015,Male,Rural,26.05577429
+Sumatera Selatan,2015,Male,Urban+Rural,28.72045081
+Sumatera Selatan,2015,Female,Urban,34.79902906
+Sumatera Selatan,2015,Female,Rural,27.47500526
+Sumatera Selatan,2015,Female,Urban+Rural,30.12428049
+Sumatera Selatan,2016,Male,Urban,29.63465887
+Sumatera Selatan,2016,Male,Rural,23.84673715
+Sumatera Selatan,2016,Male,Urban+Rural,25.90889845
+Sumatera Selatan,2016,Female,Urban,28.91812275
+Sumatera Selatan,2016,Female,Rural,26.47452111
+Sumatera Selatan,2016,Female,Urban+Rural,27.37045378
+Sumatera Selatan,2017,Male,Urban,30.20276816
+Sumatera Selatan,2017,Male,Rural,23.72703538
+Sumatera Selatan,2017,Male,Urban+Rural,26.06957248
+Sumatera Selatan,2017,Female,Urban,30.48550374
+Sumatera Selatan,2017,Female,Rural,25.88290428
+Sumatera Selatan,2017,Female,Urban+Rural,27.58606096
+Sumatera Selatan,2018,Male,Urban,28.40465396
+Sumatera Selatan,2018,Male,Rural,25.87674453
+Sumatera Selatan,2018,Male,Urban+Rural,26.80762895
+Sumatera Selatan,2018,Female,Urban,34.17389456
+Sumatera Selatan,2018,Female,Rural,28.09418378
+Sumatera Selatan,2018,Female,Urban+Rural,30.3834228
+Sumatera Selatan,2019,Male,Urban,33.13770125
+Sumatera Selatan,2019,Male,Rural,27.94545271
+Sumatera Selatan,2019,Male,Urban+Rural,29.89140048
+Sumatera Selatan,2019,Female,Urban,35.32314144
+Sumatera Selatan,2019,Female,Rural,29.9476494
+Sumatera Selatan,2019,Female,Urban+Rural,31.94763244
+Sumatera Selatan,2020,Male,Urban,29.01130855
+Sumatera Selatan,2020,Male,Rural,27.28120678
+Sumatera Selatan,2020,Male,Urban+Rural,27.92963413
+Sumatera Selatan,2020,Female,Urban,33.53643191
+Sumatera Selatan,2020,Female,Rural,29.09587181
+Sumatera Selatan,2020,Female,Urban+Rural,30.74755045
+Sumatera Selatan,2021,Male,Urban,33.58816394
+Sumatera Selatan,2021,Male,Rural,22.68144569
+Sumatera Selatan,2021,Male,Urban+Rural,26.77708044
+Sumatera Selatan,2021,Female,Urban,36.52748863
+Sumatera Selatan,2021,Female,Rural,24.61304752
+Sumatera Selatan,2021,Female,Urban+Rural,29.07828233
+Sumatera Selatan,2022,Male,Urban,29.99958587
+Sumatera Selatan,2022,Male,Rural,31.10098308
+Sumatera Selatan,2022,Male,Urban+Rural,30.69657208
+Sumatera Selatan,2022,Female,Urban,34.58195945
+Sumatera Selatan,2022,Female,Rural,33.53579688
+Sumatera Selatan,2022,Female,Urban+Rural,33.94110325
+Sumatera Selatan,2023,Male,Urban,28.56294457
+Sumatera Selatan,2023,Male,Rural,24.50406137
+Sumatera Selatan,2023,Male,Urban+Rural,26.01426889
+Sumatera Selatan,2023,Female,Urban,31.03801703
+Sumatera Selatan,2023,Female,Rural,26.82976035
+Sumatera Selatan,2023,Female,Urban+Rural,28.44897592
+Bengkulu,2009,Male,Urban,31.09
+Bengkulu,2009,Male,Rural,31.51
+Bengkulu,2009,Male,Urban+Rural,31.36
+Bengkulu,2009,Female,Urban,28.89
+Bengkulu,2009,Female,Rural,33.28
+Bengkulu,2009,Female,Urban+Rural,31.71
+Bengkulu,2010,Male,Urban,31.55
+Bengkulu,2010,Male,Rural,35.1
+Bengkulu,2010,Male,Urban+Rural,34.03
+Bengkulu,2010,Female,Urban,31.89
+Bengkulu,2010,Female,Rural,34.16
+Bengkulu,2010,Female,Urban+Rural,33.44
+Bengkulu,2011,Male,Urban,29.38
+Bengkulu,2011,Male,Rural,31.18
+Bengkulu,2011,Male,Urban+Rural,30.63
+Bengkulu,2011,Female,Urban,31.38
+Bengkulu,2011,Female,Rural,29.61
+Bengkulu,2011,Female,Urban+Rural,30.83
+Bengkulu,2012,Male,Urban,28.57
+Bengkulu,2012,Male,Rural,27.91
+Bengkulu,2012,Male,Urban+Rural,28.11
+Bengkulu,2012,Female,Urban,29.91
+Bengkulu,2012,Female,Rural,28.78
+Bengkulu,2012,Female,Urban+Rural,29.14
+Bengkulu,2013,Male,Urban,25.26727067
+Bengkulu,2013,Male,Rural,28.28288158
+Bengkulu,2013,Male,Urban+Rural,27.35464195
+Bengkulu,2013,Female,Urban,28.11586677
+Bengkulu,2013,Female,Rural,29.00015596
+Bengkulu,2013,Female,Urban+Rural,28.71794007
+Bengkulu,2014,Male,Urban,26.9752664
+Bengkulu,2014,Male,Rural,31.43993719
+Bengkulu,2014,Male,Urban+Rural,30.0676569
+Bengkulu,2014,Female,Urban,26.22387384
+Bengkulu,2014,Female,Rural,31.5278878
+Bengkulu,2014,Female,Urban+Rural,29.83947454
+Bengkulu,2015,Male,Urban,24.68058975
+Bengkulu,2015,Male,Rural,28.47613452
+Bengkulu,2015,Male,Urban+Rural,27.31971825
+Bengkulu,2015,Female,Urban,26.59013353
+Bengkulu,2015,Female,Rural,29.57604044
+Bengkulu,2015,Female,Urban+Rural,28.63179815
+Bengkulu,2016,Male,Urban,28.47612989
+Bengkulu,2016,Male,Rural,27.27215344
+Bengkulu,2016,Male,Urban+Rural,27.64610365
+Bengkulu,2016,Female,Urban,28.57295366
+Bengkulu,2016,Female,Rural,27.24128549
+Bengkulu,2016,Female,Urban+Rural,27.67216361
+Bengkulu,2017,Male,Urban,24.41325854
+Bengkulu,2017,Male,Rural,23.07386523
+Bengkulu,2017,Male,Urban+Rural,23.49598269
+Bengkulu,2017,Female,Urban,28.0580588
+Bengkulu,2017,Female,Rural,25.31648059
+Bengkulu,2017,Female,Urban+Rural,26.21045261
+Bengkulu,2018,Male,Urban,23.8616907
+Bengkulu,2018,Male,Rural,26.72756586
+Bengkulu,2018,Male,Urban+Rural,25.80687379
+Bengkulu,2018,Female,Urban,25.59071117
+Bengkulu,2018,Female,Rural,29.77792641
+Bengkulu,2018,Female,Urban+Rural,28.38519119
+Bengkulu,2019,Male,Urban,29.99039103
+Bengkulu,2019,Male,Rural,27.80529157
+Bengkulu,2019,Male,Urban+Rural,28.53448514
+Bengkulu,2019,Female,Urban,32.66004201
+Bengkulu,2019,Female,Rural,30.13830719
+Bengkulu,2019,Female,Urban+Rural,30.96462424
+Bengkulu,2020,Male,Urban,28.764948
+Bengkulu,2020,Male,Rural,28.94124561
+Bengkulu,2020,Male,Urban+Rural,28.88220234
+Bengkulu,2020,Female,Urban,32.21880538
+Bengkulu,2020,Female,Rural,31.36251515
+Bengkulu,2020,Female,Urban+Rural,31.64341039
+Bengkulu,2021,Male,Urban,36.05465571
+Bengkulu,2021,Male,Rural,20.7747562
+Bengkulu,2021,Male,Urban+Rural,25.86109511
+Bengkulu,2021,Female,Urban,35.87085901
+Bengkulu,2021,Female,Rural,23.30640331
+Bengkulu,2021,Female,Urban+Rural,27.43742205
+Bengkulu,2022,Male,Urban,35.24903424
+Bengkulu,2022,Male,Rural,21.77010986
+Bengkulu,2022,Male,Urban+Rural,26.14795004
+Bengkulu,2022,Female,Urban,37.53816423
+Bengkulu,2022,Female,Rural,23.18172216
+Bengkulu,2022,Female,Urban+Rural,28.06696318
+Bengkulu,2023,Male,Urban,28.11996695
+Bengkulu,2023,Male,Rural,25.4372847
+Bengkulu,2023,Male,Urban+Rural,26.31469768
+Bengkulu,2023,Female,Urban,29.39832298
+Bengkulu,2023,Female,Rural,29.32448959
+Bengkulu,2023,Female,Urban+Rural,29.34978021
+Lampung,2009,Male,Urban,36.91
+Lampung,2009,Male,Rural,37.36
+Lampung,2009,Male,Urban+Rural,37.24
+Lampung,2009,Female,Urban,37.05
+Lampung,2009,Female,Rural,37.91
+Lampung,2009,Female,Urban+Rural,37.67
+Lampung,2010,Male,Urban,34.93
+Lampung,2010,Male,Rural,34.69
+Lampung,2010,Male,Urban+Rural,34.75
+Lampung,2010,Female,Urban,34.98
+Lampung,2010,Female,Rural,34.39
+Lampung,2010,Female,Urban+Rural,34.55
+Lampung,2011,Male,Urban,24.8
+Lampung,2011,Male,Rural,31.84
+Lampung,2011,Male,Urban+Rural,30.07
+Lampung,2011,Female,Urban,32.84
+Lampung,2011,Female,Rural,26.37
+Lampung,2011,Female,Urban+Rural,31.14
+Lampung,2012,Male,Urban,33.19
+Lampung,2012,Male,Rural,29.68
+Lampung,2012,Male,Urban+Rural,30.58
+Lampung,2012,Female,Urban,35.62
+Lampung,2012,Female,Rural,31.83
+Lampung,2012,Female,Urban+Rural,32.83
+Lampung,2013,Male,Urban,22.97929334
+Lampung,2013,Male,Rural,30.88791164
+Lampung,2013,Male,Urban+Rural,28.86035741
+Lampung,2013,Female,Urban,23.83642997
+Lampung,2013,Female,Rural,30.88145931
+Lampung,2013,Female,Urban+Rural,29.01497296
+Lampung,2014,Male,Urban,22.16243209
+Lampung,2014,Male,Rural,30.32734295
+Lampung,2014,Male,Urban+Rural,28.23279846
+Lampung,2014,Female,Urban,23.8591826
+Lampung,2014,Female,Rural,30.91400135
+Lampung,2014,Female,Urban+Rural,29.04309178
+Lampung,2015,Male,Urban,26.44070514
+Lampung,2015,Male,Rural,31.78823844
+Lampung,2015,Male,Urban+Rural,30.40610129
+Lampung,2015,Female,Urban,29.44010273
+Lampung,2015,Female,Rural,33.60379405
+Lampung,2015,Female,Urban+Rural,32.48999336
+Lampung,2016,Male,Urban,19.70665624
+Lampung,2016,Male,Rural,28.30906581
+Lampung,2016,Male,Urban+Rural,26.02132071
+Lampung,2016,Female,Urban,22.26459288
+Lampung,2016,Female,Rural,31.3452384
+Lampung,2016,Female,Urban+Rural,28.83727837
+Lampung,2017,Male,Urban,25.42969665
+Lampung,2017,Male,Rural,28.20551739
+Lampung,2017,Male,Urban+Rural,27.4532805
+Lampung,2017,Female,Urban,26.16344831
+Lampung,2017,Female,Rural,30.99400993
+Lampung,2017,Female,Urban+Rural,29.64103772
+Lampung,2018,Male,Urban,29.0343616
+Lampung,2018,Male,Rural,29.59878077
+Lampung,2018,Male,Urban+Rural,29.43464104
+Lampung,2018,Female,Urban,30.61082332
+Lampung,2018,Female,Rural,32.50663143
+Lampung,2018,Female,Urban+Rural,31.93642593
+Lampung,2019,Male,Urban,29.73694446
+Lampung,2019,Male,Rural,35.49196479
+Lampung,2019,Male,Urban+Rural,33.71035229
+Lampung,2019,Female,Urban,33.83417121
+Lampung,2019,Female,Rural,38.41512758
+Lampung,2019,Female,Urban+Rural,37.00862983
+Lampung,2020,Male,Urban,28.82190197
+Lampung,2020,Male,Rural,30.06956114
+Lampung,2020,Male,Urban+Rural,29.68219755
+Lampung,2020,Female,Urban,31.23523041
+Lampung,2020,Female,Rural,33.92612673
+Lampung,2020,Female,Urban+Rural,33.09781732
+Lampung,2021,Male,Urban,36.4784206
+Lampung,2021,Male,Rural,23.1063508
+Lampung,2021,Male,Urban+Rural,27.38154948
+Lampung,2021,Female,Urban,37.37368229
+Lampung,2021,Female,Rural,25.87258337
+Lampung,2021,Female,Urban+Rural,29.53509753
+Lampung,2022,Male,Urban,22.28863784
+Lampung,2022,Male,Rural,34.66135828
+Lampung,2022,Male,Urban+Rural,30.64960724
+Lampung,2022,Female,Urban,27.18663738
+Lampung,2022,Female,Rural,38.55473292
+Lampung,2022,Female,Urban+Rural,34.7633247
+Lampung,2023,Male,Urban,23.53572971
+Lampung,2023,Male,Rural,26.36988892
+Lampung,2023,Male,Urban+Rural,25.44803603
+Lampung,2023,Female,Urban,26.36104604
+Lampung,2023,Female,Rural,28.81358187
+Lampung,2023,Female,Urban+Rural,27.97924604
+Kepulauan Bangka Belitung,2009,Male,Urban,43.3
+Kepulauan Bangka Belitung,2009,Male,Rural,41.28
+Kepulauan Bangka Belitung,2009,Male,Urban+Rural,42.23
+Kepulauan Bangka Belitung,2009,Female,Urban,44.91
+Kepulauan Bangka Belitung,2009,Female,Rural,42.8
+Kepulauan Bangka Belitung,2009,Female,Urban+Rural,43.83
+Kepulauan Bangka Belitung,2010,Male,Urban,34.47
+Kepulauan Bangka Belitung,2010,Male,Rural,30.11
+Kepulauan Bangka Belitung,2010,Male,Urban+Rural,32.25
+Kepulauan Bangka Belitung,2010,Female,Urban,38.82
+Kepulauan Bangka Belitung,2010,Female,Rural,32.89
+Kepulauan Bangka Belitung,2010,Female,Urban+Rural,35.82
+Kepulauan Bangka Belitung,2011,Male,Urban,32.87
+Kepulauan Bangka Belitung,2011,Male,Rural,30.16
+Kepulauan Bangka Belitung,2011,Male,Urban+Rural,31.5
+Kepulauan Bangka Belitung,2011,Female,Urban,29.37
+Kepulauan Bangka Belitung,2011,Female,Rural,32.65
+Kepulauan Bangka Belitung,2011,Female,Urban+Rural,30.97
+Kepulauan Bangka Belitung,2012,Male,Urban,28.53
+Kepulauan Bangka Belitung,2012,Male,Rural,26.65
+Kepulauan Bangka Belitung,2012,Male,Urban+Rural,27.57
+Kepulauan Bangka Belitung,2012,Female,Urban,30.94
+Kepulauan Bangka Belitung,2012,Female,Rural,28.98
+Kepulauan Bangka Belitung,2012,Female,Urban+Rural,29.96
+Kepulauan Bangka Belitung,2013,Male,Urban,28.42896027
+Kepulauan Bangka Belitung,2013,Male,Rural,24.81536631
+Kepulauan Bangka Belitung,2013,Male,Urban+Rural,26.57943056
+Kepulauan Bangka Belitung,2013,Female,Urban,29.80381223
+Kepulauan Bangka Belitung,2013,Female,Rural,26.17465101
+Kepulauan Bangka Belitung,2013,Female,Urban+Rural,27.9744881
+Kepulauan Bangka Belitung,2014,Male,Urban,27.0704299
+Kepulauan Bangka Belitung,2014,Male,Rural,23.89788376
+Kepulauan Bangka Belitung,2014,Male,Urban+Rural,25.4484023
+Kepulauan Bangka Belitung,2014,Female,Urban,28.41412861
+Kepulauan Bangka Belitung,2014,Female,Rural,25.91445954
+Kepulauan Bangka Belitung,2014,Female,Urban+Rural,27.15711802
+Kepulauan Bangka Belitung,2015,Male,Urban,31.98262561
+Kepulauan Bangka Belitung,2015,Male,Rural,26.73623442
+Kepulauan Bangka Belitung,2015,Male,Urban+Rural,29.29564422
+Kepulauan Bangka Belitung,2015,Female,Urban,33.35491619
+Kepulauan Bangka Belitung,2015,Female,Rural,29.91058349
+Kepulauan Bangka Belitung,2015,Female,Urban+Rural,31.62394606
+Kepulauan Bangka Belitung,2016,Male,Urban,31.92469307
+Kepulauan Bangka Belitung,2016,Male,Rural,26.59269025
+Kepulauan Bangka Belitung,2016,Male,Urban+Rural,29.2595559
+Kepulauan Bangka Belitung,2016,Female,Urban,36.34184751
+Kepulauan Bangka Belitung,2016,Female,Rural,30.65013239
+Kepulauan Bangka Belitung,2016,Female,Urban+Rural,33.56832179
+Kepulauan Bangka Belitung,2017,Male,Urban,28.00643871
+Kepulauan Bangka Belitung,2017,Male,Rural,23.88543641
+Kepulauan Bangka Belitung,2017,Male,Urban+Rural,26.02298098
+Kepulauan Bangka Belitung,2017,Female,Urban,32.73143293
+Kepulauan Bangka Belitung,2017,Female,Rural,25.94154106
+Kepulauan Bangka Belitung,2017,Female,Urban+Rural,29.5207126
+Kepulauan Bangka Belitung,2018,Male,Urban,26.94828822
+Kepulauan Bangka Belitung,2018,Male,Rural,26.80760916
+Kepulauan Bangka Belitung,2018,Male,Urban+Rural,26.88256385
+Kepulauan Bangka Belitung,2018,Female,Urban,32.33926004
+Kepulauan Bangka Belitung,2018,Female,Rural,30.73127619
+Kepulauan Bangka Belitung,2018,Female,Urban+Rural,31.60193543
+Kepulauan Bangka Belitung,2019,Male,Urban,33.4258088
+Kepulauan Bangka Belitung,2019,Male,Rural,27.56797409
+Kepulauan Bangka Belitung,2019,Male,Urban+Rural,30.84500334
+Kepulauan Bangka Belitung,2019,Female,Urban,37.69488059
+Kepulauan Bangka Belitung,2019,Female,Rural,31.41090275
+Kepulauan Bangka Belitung,2019,Female,Urban+Rural,34.82666386
+Kepulauan Bangka Belitung,2020,Male,Urban,31.13174167
+Kepulauan Bangka Belitung,2020,Male,Rural,26.27260223
+Kepulauan Bangka Belitung,2020,Male,Urban+Rural,28.99371798
+Kepulauan Bangka Belitung,2020,Female,Urban,35.90897362
+Kepulauan Bangka Belitung,2020,Female,Rural,31.04988785
+Kepulauan Bangka Belitung,2020,Female,Urban+Rural,33.68838262
+Kepulauan Bangka Belitung,2021,Male,Urban,29.4620667
+Kepulauan Bangka Belitung,2021,Male,Rural,20.65761138
+Kepulauan Bangka Belitung,2021,Male,Urban+Rural,25.68897941
+Kepulauan Bangka Belitung,2021,Female,Urban,29.69065852
+Kepulauan Bangka Belitung,2021,Female,Rural,22.8458163
+Kepulauan Bangka Belitung,2021,Female,Urban+Rural,26.65253328
+Kepulauan Bangka Belitung,2022,Male,Urban,32.9513836
+Kepulauan Bangka Belitung,2022,Male,Rural,33.52307624
+Kepulauan Bangka Belitung,2022,Male,Urban+Rural,33.20113922
+Kepulauan Bangka Belitung,2022,Female,Urban,37.65097188
+Kepulauan Bangka Belitung,2022,Female,Rural,37.74173252
+Kepulauan Bangka Belitung,2022,Female,Urban+Rural,37.68901722
+Kepulauan Bangka Belitung,2023,Male,Urban,27.06110665
+Kepulauan Bangka Belitung,2023,Male,Rural,25.65691051
+Kepulauan Bangka Belitung,2023,Male,Urban+Rural,26.4566401
+Kepulauan Bangka Belitung,2023,Female,Urban,30.85746333
+Kepulauan Bangka Belitung,2023,Female,Rural,31.09604048
+Kepulauan Bangka Belitung,2023,Female,Urban+Rural,30.95626752
+Kepulauan Riau,2009,Male,Urban,34.53
+Kepulauan Riau,2009,Male,Rural,36.92
+Kepulauan Riau,2009,Male,Urban+Rural,35.69
+Kepulauan Riau,2009,Female,Urban,36.09
+Kepulauan Riau,2009,Female,Rural,41.75
+Kepulauan Riau,2009,Female,Urban+Rural,38.66
+Kepulauan Riau,2010,Male,Urban,26.47
+Kepulauan Riau,2010,Male,Rural,35.47
+Kepulauan Riau,2010,Male,Urban+Rural,28.06
+Kepulauan Riau,2010,Female,Urban,26.42
+Kepulauan Riau,2010,Female,Rural,36.09
+Kepulauan Riau,2010,Female,Urban+Rural,28.01
+Kepulauan Riau,2011,Male,Urban,18.57
+Kepulauan Riau,2011,Male,Rural,28.71
+Kepulauan Riau,2011,Male,Urban+Rural,20.38
+Kepulauan Riau,2011,Female,Urban,30.94
+Kepulauan Riau,2011,Female,Rural,20.47
+Kepulauan Riau,2011,Female,Urban+Rural,22.29
+Kepulauan Riau,2012,Male,Urban,26.77
+Kepulauan Riau,2012,Male,Rural,25.15
+Kepulauan Riau,2012,Male,Urban+Rural,26.49
+Kepulauan Riau,2012,Female,Urban,28.14
+Kepulauan Riau,2012,Female,Rural,28.72
+Kepulauan Riau,2012,Female,Urban+Rural,28.24
+Kepulauan Riau,2013,Male,Urban,24.09898454
+Kepulauan Riau,2013,Male,Rural,26.58996681
+Kepulauan Riau,2013,Male,Urban+Rural,24.5209014
+Kepulauan Riau,2013,Female,Urban,23.49458507
+Kepulauan Riau,2013,Female,Rural,27.88771247
+Kepulauan Riau,2013,Female,Urban+Rural,24.20866664
+Kepulauan Riau,2014,Male,Urban,22.93392595
+Kepulauan Riau,2014,Male,Rural,24.75248313
+Kepulauan Riau,2014,Male,Urban+Rural,23.23609086
+Kepulauan Riau,2014,Female,Urban,21.06520585
+Kepulauan Riau,2014,Female,Rural,29.28439227
+Kepulauan Riau,2014,Female,Urban+Rural,22.37683299
+Kepulauan Riau,2015,Male,Urban,20.55770927
+Kepulauan Riau,2015,Male,Rural,23.62829261
+Kepulauan Riau,2015,Male,Urban+Rural,21.07176588
+Kepulauan Riau,2015,Female,Urban,21.56850073
+Kepulauan Riau,2015,Female,Rural,21.11166662
+Kepulauan Riau,2015,Female,Urban+Rural,21.49514595
+Kepulauan Riau,2016,Male,Urban,21.52114893
+Kepulauan Riau,2016,Male,Rural,21.46083353
+Kepulauan Riau,2016,Male,Urban+Rural,21.5116368
+Kepulauan Riau,2016,Female,Urban,22.73984578
+Kepulauan Riau,2016,Female,Rural,23.50988304
+Kepulauan Riau,2016,Female,Urban+Rural,22.85760004
+Kepulauan Riau,2017,Male,Urban,20.37665798
+Kepulauan Riau,2017,Male,Rural,20.28214391
+Kepulauan Riau,2017,Male,Urban+Rural,20.36222737
+Kepulauan Riau,2017,Female,Urban,22.7358116
+Kepulauan Riau,2017,Female,Rural,21.86384341
+Kepulauan Riau,2017,Female,Urban+Rural,22.60764501
+Kepulauan Riau,2018,Male,Urban,20.91929356
+Kepulauan Riau,2018,Male,Rural,24.49187104
+Kepulauan Riau,2018,Male,Urban+Rural,21.43315266
+Kepulauan Riau,2018,Female,Urban,23.03797949
+Kepulauan Riau,2018,Female,Rural,25.63601367
+Kepulauan Riau,2018,Female,Urban+Rural,23.40247524
+Kepulauan Riau,2019,Male,Urban,19.10883503
+Kepulauan Riau,2019,Male,Rural,22.42332425
+Kepulauan Riau,2019,Male,Urban+Rural,19.45361147
+Kepulauan Riau,2019,Female,Urban,23.16322629
+Kepulauan Riau,2019,Female,Rural,25.21463972
+Kepulauan Riau,2019,Female,Urban+Rural,23.36358853
+Kepulauan Riau,2020,Male,Urban,16.36952604
+Kepulauan Riau,2020,Male,Rural,18.85342733
+Kepulauan Riau,2020,Male,Urban+Rural,16.60730511
+Kepulauan Riau,2020,Female,Urban,19.81056364
+Kepulauan Riau,2020,Female,Rural,20.41356551
+Kepulauan Riau,2020,Female,Urban+Rural,19.87276491
+Kepulauan Riau,2021,Male,Urban,13.95481925
+Kepulauan Riau,2021,Male,Rural,11.86343387
+Kepulauan Riau,2021,Male,Urban+Rural,13.80145645
+Kepulauan Riau,2021,Female,Urban,15.6599197
+Kepulauan Riau,2021,Female,Rural,15.63353686
+Kepulauan Riau,2021,Female,Urban+Rural,15.65791607
+Kepulauan Riau,2022,Male,Urban,16.38687315
+Kepulauan Riau,2022,Male,Rural,24.77820792
+Kepulauan Riau,2022,Male,Urban+Rural,17.44453288
+Kepulauan Riau,2022,Female,Urban,18.06367098
+Kepulauan Riau,2022,Female,Rural,29.91304757
+Kepulauan Riau,2022,Female,Urban+Rural,19.3415869
+Kepulauan Riau,2023,Male,Urban,30.16025733
+Kepulauan Riau,2023,Male,Rural,20.4180252
+Kepulauan Riau,2023,Male,Urban+Rural,28.98917522
+Kepulauan Riau,2023,Female,Urban,35.15490122
+Kepulauan Riau,2023,Female,Rural,29.85260281
+Kepulauan Riau,2023,Female,Urban+Rural,34.58037819
+DKI Jakarta,2009,Male,Urban,36.19
+DKI Jakarta,2009,Male,Rural,0
+DKI Jakarta,2009,Male,Urban+Rural,36.19
+DKI Jakarta,2009,Female,Urban,37.3
+DKI Jakarta,2009,Female,Rural,0
+DKI Jakarta,2009,Female,Urban+Rural,37.3
+DKI Jakarta,2010,Male,Urban,33.26
+DKI Jakarta,2010,Male,Rural,0
+DKI Jakarta,2010,Male,Urban+Rural,33.26
+DKI Jakarta,2010,Female,Urban,34.36
+DKI Jakarta,2010,Female,Rural,0
+DKI Jakarta,2010,Female,Urban+Rural,34.36
+DKI Jakarta,2011,Male,Urban,32.41
+DKI Jakarta,2011,Male,Rural,0
+DKI Jakarta,2011,Male,Urban+Rural,32.41
+DKI Jakarta,2011,Female,Urban,0
+DKI Jakarta,2011,Female,Rural,32.98
+DKI Jakarta,2011,Female,Urban+Rural,32.98
+DKI Jakarta,2012,Male,Urban,31.64
+DKI Jakarta,2012,Male,Rural,0
+DKI Jakarta,2012,Male,Urban+Rural,31.64
+DKI Jakarta,2012,Female,Urban,34.24
+DKI Jakarta,2012,Female,Rural,0
+DKI Jakarta,2012,Female,Urban+Rural,34.24
+DKI Jakarta,2013,Male,Urban,28.86876945
+DKI Jakarta,2013,Male,Rural,0
+DKI Jakarta,2013,Male,Urban+Rural,28.86876945
+DKI Jakarta,2013,Female,Urban,30.64083968
+DKI Jakarta,2013,Female,Rural,0
+DKI Jakarta,2013,Female,Urban+Rural,30.64083968
+DKI Jakarta,2014,Male,Urban,29.70488065
+DKI Jakarta,2014,Male,Rural,0
+DKI Jakarta,2014,Male,Urban+Rural,29.70488065
+DKI Jakarta,2014,Female,Urban,31.20890507
+DKI Jakarta,2014,Female,Rural,0
+DKI Jakarta,2014,Female,Urban+Rural,31.20890507
+DKI Jakarta,2015,Male,Urban,32.51041476
+DKI Jakarta,2015,Male,Rural,0
+DKI Jakarta,2015,Male,Urban+Rural,32.51041476
+DKI Jakarta,2015,Female,Urban,34.28267734
+DKI Jakarta,2015,Female,Rural,0
+DKI Jakarta,2015,Female,Urban+Rural,34.28267734
+DKI Jakarta,2016,Male,Urban,28.61647217
+DKI Jakarta,2016,Male,Rural,0
+DKI Jakarta,2016,Male,Urban+Rural,28.61647217
+DKI Jakarta,2016,Female,Urban,32.30878617
+DKI Jakarta,2016,Female,Rural,0
+DKI Jakarta,2016,Female,Urban+Rural,32.30878617
+DKI Jakarta,2017,Male,Urban,26.66158769
+DKI Jakarta,2017,Male,Rural,0
+DKI Jakarta,2017,Male,Urban+Rural,26.66158769
+DKI Jakarta,2017,Female,Urban,27.43708401
+DKI Jakarta,2017,Female,Rural,0
+DKI Jakarta,2017,Female,Urban+Rural,27.43708401
+DKI Jakarta,2018,Male,Urban,26.91834167
+DKI Jakarta,2018,Male,Rural,0
+DKI Jakarta,2018,Male,Urban+Rural,26.91834167
+DKI Jakarta,2018,Female,Urban,30.74651166
+DKI Jakarta,2018,Female,Rural,0
+DKI Jakarta,2018,Female,Urban+Rural,30.74651166
+DKI Jakarta,2019,Male,Urban,27.42923763
+DKI Jakarta,2019,Male,Rural,NA
+DKI Jakarta,2019,Male,Urban+Rural,27.42923763
+DKI Jakarta,2019,Female,Urban,31.14806305
+DKI Jakarta,2019,Female,Rural,NA
+DKI Jakarta,2019,Female,Urban+Rural,31.14806305
+DKI Jakarta,2020,Male,Urban,31.84965332
+DKI Jakarta,2020,Male,Rural,0
+DKI Jakarta,2020,Male,Urban+Rural,31.84965332
+DKI Jakarta,2020,Female,Urban,35.74864535
+DKI Jakarta,2020,Female,Rural,0
+DKI Jakarta,2020,Female,Urban+Rural,35.74864535
+DKI Jakarta,2021,Male,Urban,25.34554282
+DKI Jakarta,2021,Male,Rural,0
+DKI Jakarta,2021,Male,Urban+Rural,25.34554282
+DKI Jakarta,2021,Female,Urban,26.61148381
+DKI Jakarta,2021,Female,Rural,0
+DKI Jakarta,2021,Female,Urban+Rural,26.61148381
+DKI Jakarta,2022,Male,Urban,14.66218723
+DKI Jakarta,2022,Male,Rural,0
+DKI Jakarta,2022,Male,Urban+Rural,14.66218723
+DKI Jakarta,2022,Female,Urban,17.54843094
+DKI Jakarta,2022,Female,Rural,0
+DKI Jakarta,2022,Female,Urban+Rural,17.54843094
+DKI Jakarta,2023,Male,Urban,19.54907975
+DKI Jakarta,2023,Male,Rural,0
+DKI Jakarta,2023,Male,Urban+Rural,19.54907975
+DKI Jakarta,2023,Female,Urban,22.3277696
+DKI Jakarta,2023,Female,Rural,0
+DKI Jakarta,2023,Female,Urban+Rural,22.3277696
+Jawa Barat,2009,Male,Urban,31.66
+Jawa Barat,2009,Male,Rural,33.15
+Jawa Barat,2009,Male,Urban+Rural,32.27
+Jawa Barat,2009,Female,Urban,31.28
+Jawa Barat,2009,Female,Rural,33.55
+Jawa Barat,2009,Female,Urban+Rural,32.22
+Jawa Barat,2010,Male,Urban,27.78
+Jawa Barat,2010,Male,Rural,27.94
+Jawa Barat,2010,Male,Urban+Rural,27.83
+Jawa Barat,2010,Female,Urban,27.8
+Jawa Barat,2010,Female,Rural,28.92
+Jawa Barat,2010,Female,Urban+Rural,28.18
+Jawa Barat,2011,Male,Urban,26.79
+Jawa Barat,2011,Male,Rural,31.17
+Jawa Barat,2011,Male,Urban+Rural,28.32
+Jawa Barat,2011,Female,Urban,31.88
+Jawa Barat,2011,Female,Rural,28.4
+Jawa Barat,2011,Female,Urban+Rural,29.57
+Jawa Barat,2012,Male,Urban,26.55
+Jawa Barat,2012,Male,Rural,29.89
+Jawa Barat,2012,Male,Urban+Rural,27.68
+Jawa Barat,2012,Female,Urban,28.07
+Jawa Barat,2012,Female,Rural,31.53
+Jawa Barat,2012,Female,Urban+Rural,29.25
+Jawa Barat,2013,Male,Urban,25.65654425
+Jawa Barat,2013,Male,Rural,29.89174713
+Jawa Barat,2013,Male,Urban+Rural,27.08673017
+Jawa Barat,2013,Female,Urban,26.74741493
+Jawa Barat,2013,Female,Rural,31.99642316
+Jawa Barat,2013,Female,Urban+Rural,28.52131213
+Jawa Barat,2014,Male,Urban,26.63227155
+Jawa Barat,2014,Male,Rural,30.32957008
+Jawa Barat,2014,Male,Urban+Rural,27.87367531
+Jawa Barat,2014,Female,Urban,27.26525475
+Jawa Barat,2014,Female,Rural,31.25377121
+Jawa Barat,2014,Female,Urban+Rural,28.60586997
+Jawa Barat,2015,Male,Urban,26.88464894
+Jawa Barat,2015,Male,Rural,27.90435094
+Jawa Barat,2015,Male,Urban+Rural,27.21760947
+Jawa Barat,2015,Female,Urban,28.62539934
+Jawa Barat,2015,Female,Rural,29.82891238
+Jawa Barat,2015,Female,Urban+Rural,29.01920742
+Jawa Barat,2016,Male,Urban,26.69038302
+Jawa Barat,2016,Male,Rural,28.3864819
+Jawa Barat,2016,Male,Urban+Rural,27.21513561
+Jawa Barat,2016,Female,Urban,29.15282351
+Jawa Barat,2016,Female,Rural,30.1588862
+Jawa Barat,2016,Female,Urban+Rural,29.46498428
+Jawa Barat,2017,Male,Urban,27.71866889
+Jawa Barat,2017,Male,Rural,29.79488695
+Jawa Barat,2017,Male,Urban+Rural,28.30099243
+Jawa Barat,2017,Female,Urban,29.66962557
+Jawa Barat,2017,Female,Rural,31.71272224
+Jawa Barat,2017,Female,Urban+Rural,30.24381704
+Jawa Barat,2018,Male,Urban,28.64825936
+Jawa Barat,2018,Male,Rural,31.89705198
+Jawa Barat,2018,Male,Urban+Rural,29.48831934
+Jawa Barat,2018,Female,Urban,31.87301478
+Jawa Barat,2018,Female,Rural,34.74683761
+Jawa Barat,2018,Female,Urban+Rural,32.61797871
+Jawa Barat,2019,Male,Urban,30.09744442
+Jawa Barat,2019,Male,Rural,34.32962963
+Jawa Barat,2019,Male,Urban+Rural,31.045337
+Jawa Barat,2019,Female,Urban,33.90254122
+Jawa Barat,2019,Female,Rural,39.16222865
+Jawa Barat,2019,Female,Urban+Rural,35.19829697
+Jawa Barat,2020,Male,Urban,30.03741342
+Jawa Barat,2020,Male,Rural,31.95749488
+Jawa Barat,2020,Male,Urban+Rural,30.46345008
+Jawa Barat,2020,Female,Urban,33.24584512
+Jawa Barat,2020,Female,Rural,34.93608221
+Jawa Barat,2020,Female,Urban+Rural,33.66087544
+Jawa Barat,2021,Male,Urban,30.46890946
+Jawa Barat,2021,Male,Rural,24.06933309
+Jawa Barat,2021,Male,Urban+Rural,29.13155534
+Jawa Barat,2021,Female,Urban,31.31859924
+Jawa Barat,2021,Female,Rural,27.16450385
+Jawa Barat,2021,Female,Urban+Rural,30.36718669
+Jawa Barat,2022,Male,Urban,27.2765193
+Jawa Barat,2022,Male,Rural,36.843081
+Jawa Barat,2022,Male,Urban+Rural,29.31835066
+Jawa Barat,2022,Female,Urban,31.1948157
+Jawa Barat,2022,Female,Rural,40.39106158
+Jawa Barat,2022,Female,Urban+Rural,33.16613218
+Jawa Barat,2023,Male,Urban,22.95285348
+Jawa Barat,2023,Male,Rural,27.61662091
+Jawa Barat,2023,Male,Urban+Rural,23.91059278
+Jawa Barat,2023,Female,Urban,25.65139769
+Jawa Barat,2023,Female,Rural,30.55740751
+Jawa Barat,2023,Female,Urban+Rural,26.65863678
+Jawa Tengah,2009,Male,Urban,32.1
+Jawa Tengah,2009,Male,Rural,31.36
+Jawa Tengah,2009,Male,Urban+Rural,31.72
+Jawa Tengah,2009,Female,Urban,34.15
+Jawa Tengah,2009,Female,Rural,32.4
+Jawa Tengah,2009,Female,Urban+Rural,33.25
+Jawa Tengah,2010,Male,Urban,26.62
+Jawa Tengah,2010,Male,Rural,28.43
+Jawa Tengah,2010,Male,Urban+Rural,27.61
+Jawa Tengah,2010,Female,Urban,29.29
+Jawa Tengah,2010,Female,Rural,30.24
+Jawa Tengah,2010,Female,Urban+Rural,29.8
+Jawa Tengah,2011,Male,Urban,29.22
+Jawa Tengah,2011,Male,Rural,28.96
+Jawa Tengah,2011,Male,Urban+Rural,29.08
+Jawa Tengah,2011,Female,Urban,30.54
+Jawa Tengah,2011,Female,Rural,32
+Jawa Tengah,2011,Female,Urban+Rural,31.21
+Jawa Tengah,2012,Male,Urban,32.11
+Jawa Tengah,2012,Male,Rural,29.68
+Jawa Tengah,2012,Male,Urban+Rural,30.79
+Jawa Tengah,2012,Female,Urban,33.68
+Jawa Tengah,2012,Female,Rural,31.1
+Jawa Tengah,2012,Female,Urban+Rural,32.28
+Jawa Tengah,2013,Male,Urban,31.33155838
+Jawa Tengah,2013,Male,Rural,30.95238371
+Jawa Tengah,2013,Male,Urban+Rural,31.12584461
+Jawa Tengah,2013,Female,Urban,33.33100406
+Jawa Tengah,2013,Female,Rural,32.19054679
+Jawa Tengah,2013,Female,Urban+Rural,32.71420998
+Jawa Tengah,2014,Male,Urban,33.22851177
+Jawa Tengah,2014,Male,Rural,30.90464229
+Jawa Tengah,2014,Male,Urban+Rural,31.9685736
+Jawa Tengah,2014,Female,Urban,35.42419975
+Jawa Tengah,2014,Female,Rural,32.52041971
+Jawa Tengah,2014,Female,Urban+Rural,33.85497329
+Jawa Tengah,2015,Male,Urban,35.51085913
+Jawa Tengah,2015,Male,Rural,33.84320218
+Jawa Tengah,2015,Male,Urban+Rural,34.60848684
+Jawa Tengah,2015,Female,Urban,37.64151056
+Jawa Tengah,2015,Female,Rural,35.38314906
+Jawa Tengah,2015,Female,Urban+Rural,36.42408137
+Jawa Tengah,2016,Male,Urban,32.25736118
+Jawa Tengah,2016,Male,Rural,32.49609074
+Jawa Tengah,2016,Male,Urban+Rural,32.3842853
+Jawa Tengah,2016,Female,Urban,34.7424778
+Jawa Tengah,2016,Female,Rural,34.05961271
+Jawa Tengah,2016,Female,Urban+Rural,34.38104589
+Jawa Tengah,2017,Male,Urban,31.216325
+Jawa Tengah,2017,Male,Rural,31.40953611
+Jawa Tengah,2017,Male,Urban+Rural,31.31448285
+Jawa Tengah,2017,Female,Urban,34.41078571
+Jawa Tengah,2017,Female,Rural,33.81729932
+Jawa Tengah,2017,Female,Urban+Rural,34.1103097
+Jawa Tengah,2018,Male,Urban,32.98067195
+Jawa Tengah,2018,Male,Rural,31.71187387
+Jawa Tengah,2018,Male,Urban+Rural,32.36097928
+Jawa Tengah,2018,Female,Urban,36.87884404
+Jawa Tengah,2018,Female,Rural,35.72383386
+Jawa Tengah,2018,Female,Urban+Rural,36.31670125
+Jawa Tengah,2019,Male,Urban,32.07356813
+Jawa Tengah,2019,Male,Rural,37.66287397
+Jawa Tengah,2019,Male,Urban+Rural,34.74553188
+Jawa Tengah,2019,Female,Urban,36.67264815
+Jawa Tengah,2019,Female,Rural,41.13178938
+Jawa Tengah,2019,Female,Urban+Rural,38.88771426
+Jawa Tengah,2020,Male,Urban,33.93612098
+Jawa Tengah,2020,Male,Rural,33.73830957
+Jawa Tengah,2020,Male,Urban+Rural,33.84166363
+Jawa Tengah,2020,Female,Urban,37.1420775
+Jawa Tengah,2020,Female,Rural,37.64495058
+Jawa Tengah,2020,Female,Urban+Rural,37.39177214
+Jawa Tengah,2021,Male,Urban,32.05680421
+Jawa Tengah,2021,Male,Rural,25.16330815
+Jawa Tengah,2021,Male,Urban+Rural,28.79193428
+Jawa Tengah,2021,Female,Urban,33.56204262
+Jawa Tengah,2021,Female,Rural,27.95580794
+Jawa Tengah,2021,Female,Urban+Rural,30.80342195
+Jawa Tengah,2022,Male,Urban,30.67385014
+Jawa Tengah,2022,Male,Rural,34.07764707
+Jawa Tengah,2022,Male,Urban+Rural,32.30649364
+Jawa Tengah,2022,Female,Urban,36.49791633
+Jawa Tengah,2022,Female,Rural,39.12592968
+Jawa Tengah,2022,Female,Urban+Rural,37.74745239
+Jawa Tengah,2023,Male,Urban,28.34937361
+Jawa Tengah,2023,Male,Rural,27.29711998
+Jawa Tengah,2023,Male,Urban+Rural,27.85181409
+Jawa Tengah,2023,Female,Urban,32.94260499
+Jawa Tengah,2023,Female,Rural,31.86989795
+Jawa Tengah,2023,Female,Urban+Rural,32.43896149
+DI Yogyakarta,2009,Male,Urban,39.96
+DI Yogyakarta,2009,Male,Rural,42.16
+DI Yogyakarta,2009,Male,Urban+Rural,40.74
+DI Yogyakarta,2009,Female,Urban,40.96
+DI Yogyakarta,2009,Female,Rural,43.54
+DI Yogyakarta,2009,Female,Urban+Rural,41.87
+DI Yogyakarta,2010,Male,Urban,38.5
+DI Yogyakarta,2010,Male,Rural,41.38
+DI Yogyakarta,2010,Male,Urban+Rural,39.46
+DI Yogyakarta,2010,Female,Urban,40.35
+DI Yogyakarta,2010,Female,Rural,41.58
+DI Yogyakarta,2010,Female,Urban+Rural,40.77
+DI Yogyakarta,2011,Male,Urban,38.36
+DI Yogyakarta,2011,Male,Rural,35.71
+DI Yogyakarta,2011,Male,Urban+Rural,37.48
+DI Yogyakarta,2011,Female,Urban,36.57
+DI Yogyakarta,2011,Female,Rural,38.03
+DI Yogyakarta,2011,Female,Urban+Rural,37.54
+DI Yogyakarta,2012,Male,Urban,34.98
+DI Yogyakarta,2012,Male,Rural,36.14
+DI Yogyakarta,2012,Male,Urban+Rural,35.36
+DI Yogyakarta,2012,Female,Urban,37.62
+DI Yogyakarta,2012,Female,Rural,36.86
+DI Yogyakarta,2012,Female,Urban+Rural,37.36
+DI Yogyakarta,2013,Male,Urban,36.57424787
+DI Yogyakarta,2013,Male,Rural,33.04965549
+DI Yogyakarta,2013,Male,Urban+Rural,35.39918541
+DI Yogyakarta,2013,Female,Urban,38.37188588
+DI Yogyakarta,2013,Female,Rural,36.88640307
+DI Yogyakarta,2013,Female,Urban+Rural,37.86093067
+DI Yogyakarta,2014,Male,Urban,41.04246545
+DI Yogyakarta,2014,Male,Rural,44.65518588
+DI Yogyakarta,2014,Male,Urban+Rural,42.25837523
+DI Yogyakarta,2014,Female,Urban,42.30166465
+DI Yogyakarta,2014,Female,Rural,42.29135346
+DI Yogyakarta,2014,Female,Urban+Rural,42.29810906
+DI Yogyakarta,2015,Male,Urban,37.76840428
+DI Yogyakarta,2015,Male,Rural,41.30569239
+DI Yogyakarta,2015,Male,Urban+Rural,38.92829325
+DI Yogyakarta,2015,Female,Urban,39.18955382
+DI Yogyakarta,2015,Female,Rural,42.21143728
+DI Yogyakarta,2015,Female,Urban+Rural,40.22206182
+DI Yogyakarta,2016,Male,Urban,33.6227176
+DI Yogyakarta,2016,Male,Rural,36.45384205
+DI Yogyakarta,2016,Male,Urban+Rural,34.50272206
+DI Yogyakarta,2016,Female,Urban,37.02862043
+DI Yogyakarta,2016,Female,Rural,38.22923006
+DI Yogyakarta,2016,Female,Urban+Rural,37.42277976
+DI Yogyakarta,2017,Male,Urban,29.74300181
+DI Yogyakarta,2017,Male,Rural,33.39910166
+DI Yogyakarta,2017,Male,Urban+Rural,30.81778756
+DI Yogyakarta,2017,Female,Urban,33.63882234
+DI Yogyakarta,2017,Female,Rural,38.02569852
+DI Yogyakarta,2017,Female,Urban+Rural,34.95420916
+DI Yogyakarta,2018,Male,Urban,34.19168397
+DI Yogyakarta,2018,Male,Rural,33.88027081
+DI Yogyakarta,2018,Male,Urban+Rural,34.1092662
+DI Yogyakarta,2018,Female,Urban,36.1691603
+DI Yogyakarta,2018,Female,Rural,37.36342494
+DI Yogyakarta,2018,Female,Urban+Rural,36.49807593
+DI Yogyakarta,2019,Male,Urban,32.35542237
+DI Yogyakarta,2019,Male,Rural,37.38082564
+DI Yogyakarta,2019,Male,Urban+Rural,33.66313183
+DI Yogyakarta,2019,Female,Urban,37.30052646
+DI Yogyakarta,2019,Female,Rural,38.55200586
+DI Yogyakarta,2019,Female,Urban+Rural,37.65071419
+DI Yogyakarta,2020,Male,Urban,35.6023599
+DI Yogyakarta,2020,Male,Rural,36.45553439
+DI Yogyakarta,2020,Male,Urban+Rural,35.82382537
+DI Yogyakarta,2020,Female,Urban,39.5405841
+DI Yogyakarta,2020,Female,Rural,42.15318261
+DI Yogyakarta,2020,Female,Urban+Rural,40.27204119
+DI Yogyakarta,2021,Male,Urban,31.64084587
+DI Yogyakarta,2021,Male,Rural,23.16328686
+DI Yogyakarta,2021,Male,Urban+Rural,29.50816964
+DI Yogyakarta,2021,Female,Urban,32.25842515
+DI Yogyakarta,2021,Female,Rural,27.07877928
+DI Yogyakarta,2021,Female,Urban+Rural,30.88225422
+DI Yogyakarta,2022,Male,Urban,31.17351671
+DI Yogyakarta,2022,Male,Rural,38.33923175
+DI Yogyakarta,2022,Male,Urban+Rural,32.97872404
+DI Yogyakarta,2022,Female,Urban,36.2481767
+DI Yogyakarta,2022,Female,Rural,45.11419946
+DI Yogyakarta,2022,Female,Urban+Rural,38.58678407
+DI Yogyakarta,2023,Male,Urban,24.51120357
+DI Yogyakarta,2023,Male,Rural,26.67263637
+DI Yogyakarta,2023,Male,Urban+Rural,25.03520228
+DI Yogyakarta,2023,Female,Urban,29.16832308
+DI Yogyakarta,2023,Female,Rural,27.97159344
+DI Yogyakarta,2023,Female,Urban+Rural,28.86027181
+Jawa Timur,2009,Male,Urban,32.07
+Jawa Timur,2009,Male,Rural,31.02
+Jawa Timur,2009,Male,Urban+Rural,31.53
+Jawa Timur,2009,Female,Urban,33.57
+Jawa Timur,2009,Female,Rural,31.61
+Jawa Timur,2009,Female,Urban+Rural,32.57
+Jawa Timur,2010,Male,Urban,27.82
+Jawa Timur,2010,Male,Rural,27.93
+Jawa Timur,2010,Male,Urban+Rural,27.88
+Jawa Timur,2010,Female,Urban,29.2
+Jawa Timur,2010,Female,Rural,28.87
+Jawa Timur,2010,Female,Urban+Rural,29.03
+Jawa Timur,2011,Male,Urban,26.51
+Jawa Timur,2011,Male,Rural,26.97
+Jawa Timur,2011,Male,Urban+Rural,26.75
+Jawa Timur,2011,Female,Urban,28.21
+Jawa Timur,2011,Female,Rural,27.02
+Jawa Timur,2011,Female,Urban+Rural,27.64
+Jawa Timur,2012,Male,Urban,25.69
+Jawa Timur,2012,Male,Rural,25.58
+Jawa Timur,2012,Male,Urban+Rural,25.63
+Jawa Timur,2012,Female,Urban,28.09
+Jawa Timur,2012,Female,Rural,28.28
+Jawa Timur,2012,Female,Urban+Rural,28.19
+Jawa Timur,2013,Male,Urban,27.19080088
+Jawa Timur,2013,Male,Rural,26.40617356
+Jawa Timur,2013,Male,Urban+Rural,26.78212992
+Jawa Timur,2013,Female,Urban,28.64152629
+Jawa Timur,2013,Female,Rural,28.082277
+Jawa Timur,2013,Female,Urban+Rural,28.34810736
+Jawa Timur,2014,Male,Urban,28.74173209
+Jawa Timur,2014,Male,Rural,30.28643954
+Jawa Timur,2014,Male,Urban+Rural,29.5462094
+Jawa Timur,2014,Female,Urban,30.238079
+Jawa Timur,2014,Female,Rural,31.42059834
+Jawa Timur,2014,Female,Urban+Rural,30.85812198
+Jawa Timur,2015,Male,Urban,32.3183981
+Jawa Timur,2015,Male,Rural,32.32678314
+Jawa Timur,2015,Male,Urban+Rural,32.32273942
+Jawa Timur,2015,Female,Urban,34.25950126
+Jawa Timur,2015,Female,Rural,34.79869699
+Jawa Timur,2015,Female,Urban+Rural,34.5410662
+Jawa Timur,2016,Male,Urban,29.33793808
+Jawa Timur,2016,Male,Rural,27.78974329
+Jawa Timur,2016,Male,Urban+Rural,28.55244118
+Jawa Timur,2016,Female,Urban,31.84219097
+Jawa Timur,2016,Female,Rural,30.52416448
+Jawa Timur,2016,Female,Urban+Rural,31.16681555
+Jawa Timur,2017,Male,Urban,29.78347959
+Jawa Timur,2017,Male,Rural,30.58203023
+Jawa Timur,2017,Male,Urban+Rural,30.1734263
+Jawa Timur,2017,Female,Urban,32.70407443
+Jawa Timur,2017,Female,Rural,32.80460242
+Jawa Timur,2017,Female,Urban+Rural,32.75354964
+Jawa Timur,2018,Male,Urban,31.52586597
+Jawa Timur,2018,Male,Rural,33.13269163
+Jawa Timur,2018,Male,Urban+Rural,32.28837987
+Jawa Timur,2018,Female,Urban,35.11605961
+Jawa Timur,2018,Female,Rural,35.44924158
+Jawa Timur,2018,Female,Urban+Rural,35.27541353
+Jawa Timur,2019,Male,Urban,33.4043739
+Jawa Timur,2019,Male,Rural,35.28077492
+Jawa Timur,2019,Male,Urban+Rural,34.25831556
+Jawa Timur,2019,Female,Urban,36.22958375
+Jawa Timur,2019,Female,Rural,37.61218166
+Jawa Timur,2019,Female,Urban+Rural,36.88669498
+Jawa Timur,2020,Male,Urban,31.13505364
+Jawa Timur,2020,Male,Rural,31.48377191
+Jawa Timur,2020,Male,Urban+Rural,31.2936265
+Jawa Timur,2020,Female,Urban,34.21896967
+Jawa Timur,2020,Female,Rural,34.34400464
+Jawa Timur,2020,Female,Urban+Rural,34.2783587
+Jawa Timur,2021,Male,Urban,30.90561819
+Jawa Timur,2021,Male,Rural,22.89264131
+Jawa Timur,2021,Male,Urban+Rural,27.35441687
+Jawa Timur,2021,Female,Urban,33.14889215
+Jawa Timur,2021,Female,Rural,25.73173594
+Jawa Timur,2021,Female,Urban+Rural,29.7227784
+Jawa Timur,2022,Male,Urban,27.31348006
+Jawa Timur,2022,Male,Rural,33.86534312
+Jawa Timur,2022,Male,Urban+Rural,30.22966696
+Jawa Timur,2022,Female,Urban,30.91560842
+Jawa Timur,2022,Female,Rural,37.48126223
+Jawa Timur,2022,Female,Urban+Rural,33.87678854
+Jawa Timur,2023,Male,Urban,25.51458192
+Jawa Timur,2023,Male,Rural,25.97239982
+Jawa Timur,2023,Male,Urban+Rural,25.71374325
+Jawa Timur,2023,Female,Urban,29.0620105
+Jawa Timur,2023,Female,Rural,28.60450744
+Jawa Timur,2023,Female,Urban+Rural,28.85947071
+Banten,2009,Male,Urban,37.87
+Banten,2009,Male,Rural,35.8
+Banten,2009,Male,Urban+Rural,37.04
+Banten,2009,Female,Urban,37.7
+Banten,2009,Female,Rural,39.55
+Banten,2009,Female,Urban+Rural,38.43
+Banten,2010,Male,Urban,32.26
+Banten,2010,Male,Rural,33.04
+Banten,2010,Male,Urban+Rural,32.52
+Banten,2010,Female,Urban,33.17
+Banten,2010,Female,Rural,34.29
+Banten,2010,Female,Urban+Rural,33.53
+Banten,2011,Male,Urban,33.09
+Banten,2011,Male,Rural,33.83
+Banten,2011,Male,Urban+Rural,33.34
+Banten,2011,Female,Urban,36.57
+Banten,2011,Female,Rural,33.84
+Banten,2011,Female,Urban+Rural,34.73
+Banten,2012,Male,Urban,28.36
+Banten,2012,Male,Rural,30.98
+Banten,2012,Male,Urban+Rural,29.21
+Banten,2012,Female,Urban,30.11
+Banten,2012,Female,Rural,34.89
+Banten,2012,Female,Urban+Rural,31.64
+Banten,2013,Male,Urban,27.62429647
+Banten,2013,Male,Rural,30.57593044
+Banten,2013,Male,Urban+Rural,28.5728532
+Banten,2013,Female,Urban,28.32782102
+Banten,2013,Female,Rural,32.37534989
+Banten,2013,Female,Urban+Rural,29.61611731
+Banten,2014,Male,Urban,26.87071185
+Banten,2014,Male,Rural,33.0097914
+Banten,2014,Male,Urban+Rural,28.8264171
+Banten,2014,Female,Urban,28.233191
+Banten,2014,Female,Rural,34.32576594
+Banten,2014,Female,Urban+Rural,30.15412852
+Banten,2015,Male,Urban,28.9669396
+Banten,2015,Male,Rural,30.39932928
+Banten,2015,Male,Urban+Rural,29.42372563
+Banten,2015,Female,Urban,30.94287295
+Banten,2015,Female,Rural,32.06283526
+Banten,2015,Female,Urban+Rural,31.29710902
+Banten,2016,Male,Urban,28.60920219
+Banten,2016,Male,Rural,26.29298731
+Banten,2016,Male,Urban+Rural,27.88673801
+Banten,2016,Female,Urban,28.94993851
+Banten,2016,Female,Rural,28.26012434
+Banten,2016,Female,Urban+Rural,28.73633804
+Banten,2017,Male,Urban,26.08980713
+Banten,2017,Male,Rural,26.80917958
+Banten,2017,Male,Urban+Rural,26.30739865
+Banten,2017,Female,Urban,28.60453564
+Banten,2017,Female,Rural,29.12568
+Banten,2017,Female,Urban+Rural,28.76071188
+Banten,2018,Male,Urban,29.57509788
+Banten,2018,Male,Rural,34.0243548
+Banten,2018,Male,Urban+Rural,30.86631852
+Banten,2018,Female,Urban,31.61994724
+Banten,2018,Female,Rural,39.96001182
+Banten,2018,Female,Urban+Rural,34.01727733
+Banten,2019,Male,Urban,31.33644438
+Banten,2019,Male,Rural,35.68859542
+Banten,2019,Male,Urban+Rural,32.54713035
+Banten,2019,Female,Urban,34.77188881
+Banten,2019,Female,Rural,39.31096176
+Banten,2019,Female,Urban+Rural,36.10633987
+Banten,2020,Male,Urban,28.37395539
+Banten,2020,Male,Rural,34.5646122
+Banten,2020,Male,Urban+Rural,30.07800317
+Banten,2020,Female,Urban,32.86114206
+Banten,2020,Female,Rural,38.31873577
+Banten,2020,Female,Urban+Rural,34.44959833
+Banten,2021,Male,Urban,30.37436436
+Banten,2021,Male,Rural,20.64419445
+Banten,2021,Male,Urban+Rural,27.66111578
+Banten,2021,Female,Urban,31.26839177
+Banten,2021,Female,Rural,24.08444301
+Banten,2021,Female,Urban+Rural,29.18941458
+Banten,2022,Male,Urban,18.65600562
+Banten,2022,Male,Rural,30.84629756
+Banten,2022,Male,Urban+Rural,21.73186657
+Banten,2022,Female,Urban,22.23787312
+Banten,2022,Female,Rural,35.79989803
+Banten,2022,Female,Urban+Rural,25.57668259
+Banten,2023,Male,Urban,24.55753266
+Banten,2023,Male,Rural,28.48826812
+Banten,2023,Male,Urban+Rural,25.44662977
+Banten,2023,Female,Urban,27.7638405
+Banten,2023,Female,Rural,31.66755578
+Banten,2023,Female,Urban+Rural,28.6248374
+Bali,2009,Male,Urban,34.96
+Bali,2009,Male,Rural,41.95
+Bali,2009,Male,Urban+Rural,37.92
+Bali,2009,Female,Urban,35.78
+Bali,2009,Female,Rural,42.88
+Bali,2009,Female,Urban+Rural,38.77
+Bali,2010,Male,Urban,35.71
+Bali,2010,Male,Rural,45.17
+Bali,2010,Male,Urban+Rural,39.5
+Bali,2010,Female,Urban,36.57
+Bali,2010,Female,Rural,47.17
+Bali,2010,Female,Urban+Rural,40.76
+Bali,2011,Male,Urban,33.66
+Bali,2011,Male,Rural,41.45
+Bali,2011,Male,Urban+Rural,36.78
+Bali,2011,Female,Urban,42.62
+Bali,2011,Female,Rural,34.01
+Bali,2011,Female,Urban+Rural,37.42
+Bali,2012,Male,Urban,30.7
+Bali,2012,Male,Rural,41.1
+Bali,2012,Male,Urban+Rural,34.78
+Bali,2012,Female,Urban,32.56
+Bali,2012,Female,Rural,41.94
+Bali,2012,Female,Urban+Rural,36.3
+Bali,2013,Male,Urban,30.82984049
+Bali,2013,Male,Rural,39.656662
+Bali,2013,Male,Urban+Rural,34.28408771
+Bali,2013,Female,Urban,31.55789768
+Bali,2013,Female,Rural,41.45171632
+Bali,2013,Female,Urban+Rural,35.48871001
+Bali,2014,Male,Urban,29.73268443
+Bali,2014,Male,Rural,44.44979492
+Bali,2014,Male,Urban+Rural,35.47364346
+Bali,2014,Female,Urban,31.64366158
+Bali,2014,Female,Rural,45.19254103
+Bali,2014,Female,Urban+Rural,37.01575357
+Bali,2015,Male,Urban,32.33495621
+Bali,2015,Male,Rural,38.40102108
+Bali,2015,Male,Urban+Rural,34.65151267
+Bali,2015,Female,Urban,33.05656365
+Bali,2015,Female,Rural,40.49492737
+Bali,2015,Female,Urban+Rural,35.94497351
+Bali,2016,Male,Urban,28.23273402
+Bali,2016,Male,Rural,35.24570279
+Bali,2016,Male,Urban+Rural,30.80479057
+Bali,2016,Female,Urban,28.80848846
+Bali,2016,Female,Rural,36.17134547
+Bali,2016,Female,Urban+Rural,31.56645345
+Bali,2017,Male,Urban,25.55815442
+Bali,2017,Male,Rural,32.14072321
+Bali,2017,Male,Urban+Rural,27.91599673
+Bali,2017,Female,Urban,27.33294061
+Bali,2017,Female,Rural,34.39245283
+Bali,2017,Female,Urban+Rural,29.89468187
+Bali,2018,Male,Urban,26.25166904
+Bali,2018,Male,Rural,34.50610583
+Bali,2018,Male,Urban+Rural,29.01163119
+Bali,2018,Female,Urban,28.81808647
+Bali,2018,Female,Rural,37.14729481
+Bali,2018,Female,Urban+Rural,31.65564836
+Bali,2019,Male,Urban,26.4274731
+Bali,2019,Male,Rural,32.22654954
+Bali,2019,Male,Urban+Rural,28.16618728
+Bali,2019,Female,Urban,27.34208185
+Bali,2019,Female,Rural,32.13086861
+Bali,2019,Female,Urban+Rural,28.89319448
+Bali,2020,Male,Urban,23.17982199
+Bali,2020,Male,Rural,29.06775206
+Bali,2020,Male,Urban+Rural,24.94143888
+Bali,2020,Female,Urban,24.08841525
+Bali,2020,Female,Rural,30.13105302
+Bali,2020,Female,Urban+Rural,26.03342173
+Bali,2021,Male,Urban,24.18484161
+Bali,2021,Male,Rural,20.83983938
+Bali,2021,Male,Urban+Rural,23.2321979
+Bali,2021,Female,Urban,25.39531129
+Bali,2021,Female,Rural,20.8761916
+Bali,2021,Female,Urban+Rural,24.02137158
+Bali,2022,Male,Urban,17.14825906
+Bali,2022,Male,Rural,24.18191943
+Bali,2022,Male,Urban+Rural,19.14164155
+Bali,2022,Female,Urban,18.81954148
+Bali,2022,Female,Rural,26.05892884
+Bali,2022,Female,Urban+Rural,20.92075022
+Bali,2023,Male,Urban,20.48079116
+Bali,2023,Male,Rural,25.03748923
+Bali,2023,Male,Urban+Rural,21.7368059
+Bali,2023,Female,Urban,22.33877195
+Bali,2023,Female,Rural,26.61252989
+Bali,2023,Female,Urban+Rural,23.54662365
+Nusa Tenggara Barat,2009,Male,Urban,40.4
+Nusa Tenggara Barat,2009,Male,Rural,37.95
+Nusa Tenggara Barat,2009,Male,Urban+Rural,38.98
+Nusa Tenggara Barat,2009,Female,Urban,40.81
+Nusa Tenggara Barat,2009,Female,Rural,39.67
+Nusa Tenggara Barat,2009,Female,Urban+Rural,40.14
+Nusa Tenggara Barat,2010,Male,Urban,42.75
+Nusa Tenggara Barat,2010,Male,Rural,34.11
+Nusa Tenggara Barat,2010,Male,Urban+Rural,37.7
+Nusa Tenggara Barat,2010,Female,Urban,43.55
+Nusa Tenggara Barat,2010,Female,Rural,34.84
+Nusa Tenggara Barat,2010,Female,Urban+Rural,38.49
+Nusa Tenggara Barat,2011,Male,Urban,35.35
+Nusa Tenggara Barat,2011,Male,Rural,33.55
+Nusa Tenggara Barat,2011,Male,Urban+Rural,34.29
+Nusa Tenggara Barat,2011,Female,Urban,33.55
+Nusa Tenggara Barat,2011,Female,Rural,37.4
+Nusa Tenggara Barat,2011,Female,Urban+Rural,35.17
+Nusa Tenggara Barat,2012,Male,Urban,35.41
+Nusa Tenggara Barat,2012,Male,Rural,32.98
+Nusa Tenggara Barat,2012,Male,Urban+Rural,33.99
+Nusa Tenggara Barat,2012,Female,Urban,34.23
+Nusa Tenggara Barat,2012,Female,Rural,33.94
+Nusa Tenggara Barat,2012,Female,Urban+Rural,34.07
+Nusa Tenggara Barat,2013,Male,Urban,33.80605232
+Nusa Tenggara Barat,2013,Male,Rural,33.57447897
+Nusa Tenggara Barat,2013,Male,Urban+Rural,33.67133013
+Nusa Tenggara Barat,2013,Female,Urban,35.43854905
+Nusa Tenggara Barat,2013,Female,Rural,35.85194348
+Nusa Tenggara Barat,2013,Female,Urban+Rural,35.67810632
+Nusa Tenggara Barat,2014,Male,Urban,36.03364039
+Nusa Tenggara Barat,2014,Male,Rural,36.03774811
+Nusa Tenggara Barat,2014,Male,Urban+Rural,36.03602925
+Nusa Tenggara Barat,2014,Female,Urban,38.03778743
+Nusa Tenggara Barat,2014,Female,Rural,38.25945772
+Nusa Tenggara Barat,2014,Female,Urban+Rural,38.16617376
+Nusa Tenggara Barat,2015,Male,Urban,35.25844988
+Nusa Tenggara Barat,2015,Male,Rural,33.0669578
+Nusa Tenggara Barat,2015,Male,Urban+Rural,33.99034512
+Nusa Tenggara Barat,2015,Female,Urban,37.32225807
+Nusa Tenggara Barat,2015,Female,Rural,34.48874259
+Nusa Tenggara Barat,2015,Female,Urban+Rural,35.69025887
+Nusa Tenggara Barat,2016,Male,Urban,34.57367426
+Nusa Tenggara Barat,2016,Male,Rural,33.37245686
+Nusa Tenggara Barat,2016,Male,Urban+Rural,33.89148961
+Nusa Tenggara Barat,2016,Female,Urban,36.09701141
+Nusa Tenggara Barat,2016,Female,Rural,34.771661279999996
+Nusa Tenggara Barat,2016,Female,Urban+Rural,35.34841611
+Nusa Tenggara Barat,2017,Male,Urban,28.42529783
+Nusa Tenggara Barat,2017,Male,Rural,29.13639232
+Nusa Tenggara Barat,2017,Male,Urban+Rural,28.81953759
+Nusa Tenggara Barat,2017,Female,Urban,33.18658781
+Nusa Tenggara Barat,2017,Female,Rural,32.55412679
+Nusa Tenggara Barat,2017,Female,Urban+Rural,32.83763713
+Nusa Tenggara Barat,2018,Male,Urban,38.02477601
+Nusa Tenggara Barat,2018,Male,Rural,35.45698647
+Nusa Tenggara Barat,2018,Male,Urban+Rural,36.64752165
+Nusa Tenggara Barat,2018,Female,Urban,41.12851012
+Nusa Tenggara Barat,2018,Female,Rural,39.92729242
+Nusa Tenggara Barat,2018,Female,Urban+Rural,40.48700091
+Nusa Tenggara Barat,2019,Male,Urban,40.75967433
+Nusa Tenggara Barat,2019,Male,Rural,47.09613731
+Nusa Tenggara Barat,2019,Male,Urban+Rural,43.98117964
+Nusa Tenggara Barat,2019,Female,Urban,41.60571055
+Nusa Tenggara Barat,2019,Female,Rural,47.65940059
+Nusa Tenggara Barat,2019,Female,Urban+Rural,44.7811396
+Nusa Tenggara Barat,2020,Male,Urban,41.21054801
+Nusa Tenggara Barat,2020,Male,Rural,42.69181576
+Nusa Tenggara Barat,2020,Male,Urban+Rural,41.96277739
+Nusa Tenggara Barat,2020,Female,Urban,45.14279439
+Nusa Tenggara Barat,2020,Female,Rural,46.64672328
+Nusa Tenggara Barat,2020,Female,Urban+Rural,45.93100657
+Nusa Tenggara Barat,2021,Male,Urban,38.06249188
+Nusa Tenggara Barat,2021,Male,Rural,41.6995059
+Nusa Tenggara Barat,2021,Male,Urban+Rural,39.86599206
+Nusa Tenggara Barat,2021,Female,Urban,42.00352476
+Nusa Tenggara Barat,2021,Female,Rural,46.64073739
+Nusa Tenggara Barat,2021,Female,Urban+Rural,44.36420266
+Nusa Tenggara Barat,2022,Male,Urban,38.47073685
+Nusa Tenggara Barat,2022,Male,Rural,45.54530736
+Nusa Tenggara Barat,2022,Male,Urban+Rural,41.98414086
+Nusa Tenggara Barat,2022,Female,Urban,41.70725976
+Nusa Tenggara Barat,2022,Female,Rural,50.82575766
+Nusa Tenggara Barat,2022,Female,Urban+Rural,46.20701688
+Nusa Tenggara Barat,2023,Male,Urban,37.56744197
+Nusa Tenggara Barat,2023,Male,Rural,36.54151201
+Nusa Tenggara Barat,2023,Male,Urban+Rural,37.06566815
+Nusa Tenggara Barat,2023,Female,Urban,42.02493621
+Nusa Tenggara Barat,2023,Female,Rural,41.30750819
+Nusa Tenggara Barat,2023,Female,Urban+Rural,41.67853336
+Nusa Tenggara Timur,2009,Male,Urban,43.59
+Nusa Tenggara Timur,2009,Male,Rural,46.65
+Nusa Tenggara Timur,2009,Male,Urban+Rural,46.13
+Nusa Tenggara Timur,2009,Female,Urban,42.35
+Nusa Tenggara Timur,2009,Female,Rural,49.53
+Nusa Tenggara Timur,2009,Female,Urban+Rural,48.31
+Nusa Tenggara Timur,2010,Male,Urban,38.07
+Nusa Tenggara Timur,2010,Male,Rural,45.1
+Nusa Tenggara Timur,2010,Male,Urban+Rural,43.75
+Nusa Tenggara Timur,2010,Female,Urban,38.36
+Nusa Tenggara Timur,2010,Female,Rural,48.02
+Nusa Tenggara Timur,2010,Female,Urban+Rural,46.14
+Nusa Tenggara Timur,2011,Male,Urban,36.99
+Nusa Tenggara Timur,2011,Male,Rural,38.57
+Nusa Tenggara Timur,2011,Male,Urban+Rural,38.26
+Nusa Tenggara Timur,2011,Female,Urban,41.91
+Nusa Tenggara Timur,2011,Female,Rural,38.94
+Nusa Tenggara Timur,2011,Female,Urban+Rural,41.32
+Nusa Tenggara Timur,2012,Male,Urban,35.6
+Nusa Tenggara Timur,2012,Male,Rural,36.49
+Nusa Tenggara Timur,2012,Male,Urban+Rural,36.31
+Nusa Tenggara Timur,2012,Female,Urban,37.5
+Nusa Tenggara Timur,2012,Female,Rural,39.58
+Nusa Tenggara Timur,2012,Female,Urban+Rural,39.17
+Nusa Tenggara Timur,2013,Male,Urban,33.34210827
+Nusa Tenggara Timur,2013,Male,Rural,34.37021111
+Nusa Tenggara Timur,2013,Male,Urban+Rural,34.1647058
+Nusa Tenggara Timur,2013,Female,Urban,37.79834337
+Nusa Tenggara Timur,2013,Female,Rural,36.9998149
+Nusa Tenggara Timur,2013,Female,Urban+Rural,37.15565147
+Nusa Tenggara Timur,2014,Male,Urban,28.80233853
+Nusa Tenggara Timur,2014,Male,Rural,33.33386771
+Nusa Tenggara Timur,2014,Male,Urban+Rural,32.43178818
+Nusa Tenggara Timur,2014,Female,Urban,29.69527453
+Nusa Tenggara Timur,2014,Female,Rural,36.56732313
+Nusa Tenggara Timur,2014,Female,Urban+Rural,35.23264655
+Nusa Tenggara Timur,2015,Male,Urban,33.09758565
+Nusa Tenggara Timur,2015,Male,Rural,36.65085815
+Nusa Tenggara Timur,2015,Male,Urban+Rural,35.92825708
+Nusa Tenggara Timur,2015,Female,Urban,34.76978191
+Nusa Tenggara Timur,2015,Female,Rural,38.92703679
+Nusa Tenggara Timur,2015,Female,Urban+Rural,38.1034041
+Nusa Tenggara Timur,2016,Male,Urban,26.97407016
+Nusa Tenggara Timur,2016,Male,Rural,31.06019553
+Nusa Tenggara Timur,2016,Male,Urban+Rural,30.21244251
+Nusa Tenggara Timur,2016,Female,Urban,30.26929534
+Nusa Tenggara Timur,2016,Female,Rural,34.15366727
+Nusa Tenggara Timur,2016,Female,Urban+Rural,33.372087
+Nusa Tenggara Timur,2017,Male,Urban,36.53727758
+Nusa Tenggara Timur,2017,Male,Rural,32.11957128
+Nusa Tenggara Timur,2017,Male,Urban+Rural,33.08430682
+Nusa Tenggara Timur,2017,Female,Urban,37.99173492
+Nusa Tenggara Timur,2017,Female,Rural,36.21255599
+Nusa Tenggara Timur,2017,Female,Urban+Rural,36.59287219
+Nusa Tenggara Timur,2018,Male,Urban,33.60256669
+Nusa Tenggara Timur,2018,Male,Rural,36.79183643
+Nusa Tenggara Timur,2018,Male,Urban+Rural,36.05179241
+Nusa Tenggara Timur,2018,Female,Urban,36.91939608
+Nusa Tenggara Timur,2018,Female,Rural,40.03345767
+Nusa Tenggara Timur,2018,Female,Urban+Rural,39.32731471
+Nusa Tenggara Timur,2019,Male,Urban,37.92521861
+Nusa Tenggara Timur,2019,Male,Rural,38.54513489
+Nusa Tenggara Timur,2019,Male,Urban+Rural,38.39520243
+Nusa Tenggara Timur,2019,Female,Urban,41.36251025
+Nusa Tenggara Timur,2019,Female,Rural,42.65417784
+Nusa Tenggara Timur,2019,Female,Urban+Rural,42.35274588
+Nusa Tenggara Timur,2020,Male,Urban,33.18779869
+Nusa Tenggara Timur,2020,Male,Rural,32.94668243
+Nusa Tenggara Timur,2020,Male,Urban+Rural,33.00526151
+Nusa Tenggara Timur,2020,Female,Urban,33.62280685
+Nusa Tenggara Timur,2020,Female,Rural,36.52572437
+Nusa Tenggara Timur,2020,Female,Urban+Rural,35.85015166
+Nusa Tenggara Timur,2021,Male,Urban,25.304842
+Nusa Tenggara Timur,2021,Male,Rural,29.13217767
+Nusa Tenggara Timur,2021,Male,Urban+Rural,28.16152297
+Nusa Tenggara Timur,2021,Female,Urban,29.19040461
+Nusa Tenggara Timur,2021,Female,Rural,33.0124218
+Nusa Tenggara Timur,2021,Female,Urban+Rural,32.08557902
+Nusa Tenggara Timur,2022,Male,Urban,35.960595
+Nusa Tenggara Timur,2022,Male,Rural,25.63163473
+Nusa Tenggara Timur,2022,Male,Urban+Rural,28.35477139
+Nusa Tenggara Timur,2022,Female,Urban,42.57366783
+Nusa Tenggara Timur,2022,Female,Rural,28.62649666
+Nusa Tenggara Timur,2022,Female,Urban+Rural,32.25276468
+Nusa Tenggara Timur,2023,Male,Urban,28.51765767
+Nusa Tenggara Timur,2023,Male,Rural,29.31237753
+Nusa Tenggara Timur,2023,Male,Urban+Rural,29.10294454
+Nusa Tenggara Timur,2023,Female,Urban,30.66729678
+Nusa Tenggara Timur,2023,Female,Rural,32.31479918
+Nusa Tenggara Timur,2023,Female,Urban+Rural,31.89249872
+Kalimantan Barat,2009,Male,Urban,29.19
+Kalimantan Barat,2009,Male,Rural,33.31
+Kalimantan Barat,2009,Male,Urban+Rural,32.15
+Kalimantan Barat,2009,Female,Urban,31.3
+Kalimantan Barat,2009,Female,Rural,34.86
+Kalimantan Barat,2009,Female,Urban+Rural,33.88
+Kalimantan Barat,2010,Male,Urban,32.49
+Kalimantan Barat,2010,Male,Rural,33.86
+Kalimantan Barat,2010,Male,Urban+Rural,33.46
+Kalimantan Barat,2010,Female,Urban,34.05
+Kalimantan Barat,2010,Female,Rural,35.94
+Kalimantan Barat,2010,Female,Urban+Rural,35.36
+Kalimantan Barat,2011,Male,Urban,24.82
+Kalimantan Barat,2011,Male,Rural,26.44
+Kalimantan Barat,2011,Male,Urban+Rural,25.96
+Kalimantan Barat,2011,Female,Urban,30.45
+Kalimantan Barat,2011,Female,Rural,27.8
+Kalimantan Barat,2011,Female,Urban+Rural,29.64
+Kalimantan Barat,2012,Male,Urban,24.43
+Kalimantan Barat,2012,Male,Rural,23.48
+Kalimantan Barat,2012,Male,Urban+Rural,23.77
+Kalimantan Barat,2012,Female,Urban,27.28
+Kalimantan Barat,2012,Female,Rural,27.45
+Kalimantan Barat,2012,Female,Urban+Rural,27.4
+Kalimantan Barat,2013,Male,Urban,21.93649487
+Kalimantan Barat,2013,Male,Rural,23.55372673
+Kalimantan Barat,2013,Male,Urban+Rural,23.06905176
+Kalimantan Barat,2013,Female,Urban,25.25074216
+Kalimantan Barat,2013,Female,Rural,26.34614244
+Kalimantan Barat,2013,Female,Urban+Rural,26.00700744
+Kalimantan Barat,2014,Male,Urban,25.47274165
+Kalimantan Barat,2014,Male,Rural,24.9064357
+Kalimantan Barat,2014,Male,Urban+Rural,25.07620862
+Kalimantan Barat,2014,Female,Urban,26.90489898
+Kalimantan Barat,2014,Female,Rural,28.55281541
+Kalimantan Barat,2014,Female,Urban+Rural,28.04230786
+Kalimantan Barat,2015,Male,Urban,24.29490981
+Kalimantan Barat,2015,Male,Rural,24.11674933
+Kalimantan Barat,2015,Male,Urban+Rural,24.17025061
+Kalimantan Barat,2015,Female,Urban,29.05612336
+Kalimantan Barat,2015,Female,Rural,26.26099133
+Kalimantan Barat,2015,Female,Urban+Rural,27.1301853
+Kalimantan Barat,2016,Male,Urban,22.87561601
+Kalimantan Barat,2016,Male,Rural,24.2330413
+Kalimantan Barat,2016,Male,Urban+Rural,23.81547451
+Kalimantan Barat,2016,Female,Urban,26.31839098
+Kalimantan Barat,2016,Female,Rural,25.97632328
+Kalimantan Barat,2016,Female,Urban+Rural,26.08546169
+Kalimantan Barat,2017,Male,Urban,21.89890486
+Kalimantan Barat,2017,Male,Rural,24.43297144
+Kalimantan Barat,2017,Male,Urban+Rural,23.64196377
+Kalimantan Barat,2017,Female,Urban,24.35462382
+Kalimantan Barat,2017,Female,Rural,25.88609689
+Kalimantan Barat,2017,Female,Urban+Rural,25.39207047
+Kalimantan Barat,2018,Male,Urban,25.26293521
+Kalimantan Barat,2018,Male,Rural,28.4269518
+Kalimantan Barat,2018,Male,Urban+Rural,27.37507832
+Kalimantan Barat,2018,Female,Urban,28.8636211
+Kalimantan Barat,2018,Female,Rural,30.65444765
+Kalimantan Barat,2018,Female,Urban+Rural,30.04106156
+Kalimantan Barat,2019,Male,Urban,24.50953088
+Kalimantan Barat,2019,Male,Rural,27.3885329
+Kalimantan Barat,2019,Male,Urban+Rural,26.36936057
+Kalimantan Barat,2019,Female,Urban,27.98271444
+Kalimantan Barat,2019,Female,Rural,29.09368907
+Kalimantan Barat,2019,Female,Urban+Rural,28.70725876
+Kalimantan Barat,2020,Male,Urban,20.76232124
+Kalimantan Barat,2020,Male,Rural,26.23438932
+Kalimantan Barat,2020,Male,Urban+Rural,24.29702318
+Kalimantan Barat,2020,Female,Urban,23.27646594
+Kalimantan Barat,2020,Female,Rural,29.64640885
+Kalimantan Barat,2020,Female,Urban+Rural,27.42849296
+Kalimantan Barat,2021,Male,Urban,18.30740128
+Kalimantan Barat,2021,Male,Rural,20.73830229
+Kalimantan Barat,2021,Male,Urban+Rural,19.85566424
+Kalimantan Barat,2021,Female,Urban,22.13132388
+Kalimantan Barat,2021,Female,Rural,23.2151534
+Kalimantan Barat,2021,Female,Urban+Rural,22.82645857
+Kalimantan Barat,2022,Male,Urban,15.51747477
+Kalimantan Barat,2022,Male,Rural,28.98767734
+Kalimantan Barat,2022,Male,Urban+Rural,24.14641293
+Kalimantan Barat,2022,Female,Urban,17.26201137
+Kalimantan Barat,2022,Female,Rural,31.84882351
+Kalimantan Barat,2022,Female,Urban+Rural,26.30232864
+Kalimantan Barat,2023,Male,Urban,24.78339358
+Kalimantan Barat,2023,Male,Rural,25.04469179
+Kalimantan Barat,2023,Male,Urban+Rural,24.94897369
+Kalimantan Barat,2023,Female,Urban,27.29373104
+Kalimantan Barat,2023,Female,Rural,27.7721444
+Kalimantan Barat,2023,Female,Urban+Rural,27.58940702
+Kalimantan Tengah,2009,Male,Urban,26.74
+Kalimantan Tengah,2009,Male,Rural,27.79
+Kalimantan Tengah,2009,Male,Urban+Rural,27.43
+Kalimantan Tengah,2009,Female,Urban,27.44
+Kalimantan Tengah,2009,Female,Rural,29.31
+Kalimantan Tengah,2009,Female,Urban+Rural,28.67
+Kalimantan Tengah,2010,Male,Urban,30.38
+Kalimantan Tengah,2010,Male,Rural,30.91
+Kalimantan Tengah,2010,Male,Urban+Rural,30.74
+Kalimantan Tengah,2010,Female,Urban,30.31
+Kalimantan Tengah,2010,Female,Rural,31.88
+Kalimantan Tengah,2010,Female,Urban+Rural,31.34
+Kalimantan Tengah,2011,Male,Urban,25.46
+Kalimantan Tengah,2011,Male,Rural,25.78
+Kalimantan Tengah,2011,Male,Urban+Rural,25.67
+Kalimantan Tengah,2011,Female,Urban,26.88
+Kalimantan Tengah,2011,Female,Rural,26.28
+Kalimantan Tengah,2011,Female,Urban+Rural,26.67
+Kalimantan Tengah,2012,Male,Urban,25.68
+Kalimantan Tengah,2012,Male,Rural,22.7
+Kalimantan Tengah,2012,Male,Urban+Rural,23.69
+Kalimantan Tengah,2012,Female,Urban,28.45
+Kalimantan Tengah,2012,Female,Rural,25.39
+Kalimantan Tengah,2012,Female,Urban+Rural,26.43
+Kalimantan Tengah,2013,Male,Urban,21.51054613
+Kalimantan Tengah,2013,Male,Rural,24.4145658
+Kalimantan Tengah,2013,Male,Urban+Rural,23.45022403
+Kalimantan Tengah,2013,Female,Urban,20.94245059
+Kalimantan Tengah,2013,Female,Rural,26.17969087
+Kalimantan Tengah,2013,Female,Urban+Rural,24.38372585
+Kalimantan Tengah,2014,Male,Urban,25.00528264
+Kalimantan Tengah,2014,Male,Rural,26.99018131
+Kalimantan Tengah,2014,Male,Urban+Rural,26.32760919
+Kalimantan Tengah,2014,Female,Urban,26.67881821
+Kalimantan Tengah,2014,Female,Rural,26.92782384
+Kalimantan Tengah,2014,Female,Urban+Rural,26.84194804
+Kalimantan Tengah,2015,Male,Urban,25.43859214
+Kalimantan Tengah,2015,Male,Rural,23.47530444
+Kalimantan Tengah,2015,Male,Urban+Rural,24.13583289
+Kalimantan Tengah,2015,Female,Urban,27.1669208
+Kalimantan Tengah,2015,Female,Rural,26.53469405
+Kalimantan Tengah,2015,Female,Urban+Rural,26.75475656
+Kalimantan Tengah,2016,Male,Urban,26.10010856
+Kalimantan Tengah,2016,Male,Rural,23.46964835
+Kalimantan Tengah,2016,Male,Urban+Rural,24.37954353
+Kalimantan Tengah,2016,Female,Urban,27.91036898
+Kalimantan Tengah,2016,Female,Rural,25.97226664
+Kalimantan Tengah,2016,Female,Urban+Rural,26.66821279
+Kalimantan Tengah,2017,Male,Urban,26.4784143
+Kalimantan Tengah,2017,Male,Rural,23.73438698
+Kalimantan Tengah,2017,Male,Urban+Rural,24.70820985
+Kalimantan Tengah,2017,Female,Urban,28.6513832
+Kalimantan Tengah,2017,Female,Rural,25.71792641
+Kalimantan Tengah,2017,Female,Urban+Rural,26.79181744
+Kalimantan Tengah,2018,Male,Urban,26.7117009
+Kalimantan Tengah,2018,Male,Rural,26.64456588
+Kalimantan Tengah,2018,Male,Urban+Rural,26.67006864
+Kalimantan Tengah,2018,Female,Urban,28.74904811
+Kalimantan Tengah,2018,Female,Rural,30.49674908
+Kalimantan Tengah,2018,Female,Urban+Rural,29.81231606
+Kalimantan Tengah,2019,Male,Urban,27.21260169
+Kalimantan Tengah,2019,Male,Rural,24.9624771
+Kalimantan Tengah,2019,Male,Urban+Rural,25.87879966
+Kalimantan Tengah,2019,Female,Urban,30.6061097
+Kalimantan Tengah,2019,Female,Rural,27.14354627
+Kalimantan Tengah,2019,Female,Urban+Rural,28.51512439
+Kalimantan Tengah,2020,Male,Urban,26.29316741
+Kalimantan Tengah,2020,Male,Rural,23.79979753
+Kalimantan Tengah,2020,Male,Urban+Rural,24.81557236
+Kalimantan Tengah,2020,Female,Urban,30.62525404
+Kalimantan Tengah,2020,Female,Rural,26.63103574
+Kalimantan Tengah,2020,Female,Urban+Rural,28.21924349
+Kalimantan Tengah,2021,Male,Urban,26.60667594
+Kalimantan Tengah,2021,Male,Rural,19.1926313
+Kalimantan Tengah,2021,Male,Urban+Rural,22.28622954
+Kalimantan Tengah,2021,Female,Urban,27.31989398
+Kalimantan Tengah,2021,Female,Rural,19.79847471
+Kalimantan Tengah,2021,Female,Urban+Rural,22.87765002
+Kalimantan Tengah,2022,Male,Urban,20.59719026
+Kalimantan Tengah,2022,Male,Rural,24.67569368
+Kalimantan Tengah,2022,Male,Urban+Rural,22.99997248
+Kalimantan Tengah,2022,Female,Urban,23.94550879
+Kalimantan Tengah,2022,Female,Rural,27.73834967
+Kalimantan Tengah,2022,Female,Urban+Rural,26.10265938
+Kalimantan Tengah,2023,Male,Urban,23.40725073
+Kalimantan Tengah,2023,Male,Rural,20.80135789
+Kalimantan Tengah,2023,Male,Urban+Rural,21.8977032
+Kalimantan Tengah,2023,Female,Urban,25.8125307
+Kalimantan Tengah,2023,Female,Rural,23.61176146
+Kalimantan Tengah,2023,Female,Urban+Rural,24.57696219
+Kalimantan Selatan,2009,Male,Urban,41.83
+Kalimantan Selatan,2009,Male,Rural,41.48
+Kalimantan Selatan,2009,Male,Urban+Rural,41.62
+Kalimantan Selatan,2009,Female,Urban,44.08
+Kalimantan Selatan,2009,Female,Rural,42.92
+Kalimantan Selatan,2009,Female,Urban+Rural,43.4
+Kalimantan Selatan,2010,Male,Urban,35.2
+Kalimantan Selatan,2010,Male,Rural,36.15
+Kalimantan Selatan,2010,Male,Urban+Rural,35.75
+Kalimantan Selatan,2010,Female,Urban,36.52
+Kalimantan Selatan,2010,Female,Rural,39.08
+Kalimantan Selatan,2010,Female,Urban+Rural,38
+Kalimantan Selatan,2011,Male,Urban,32.77
+Kalimantan Selatan,2011,Male,Rural,33.71
+Kalimantan Selatan,2011,Male,Urban+Rural,33.32
+Kalimantan Selatan,2011,Female,Urban,34.84
+Kalimantan Selatan,2011,Female,Rural,35.34
+Kalimantan Selatan,2011,Female,Urban+Rural,35.05
+Kalimantan Selatan,2012,Male,Urban,32.34
+Kalimantan Selatan,2012,Male,Rural,32.21
+Kalimantan Selatan,2012,Male,Urban+Rural,32.27
+Kalimantan Selatan,2012,Female,Urban,35.34
+Kalimantan Selatan,2012,Female,Rural,34.61
+Kalimantan Selatan,2012,Female,Urban+Rural,34.92
+Kalimantan Selatan,2013,Male,Urban,31.93629273
+Kalimantan Selatan,2013,Male,Rural,33.73744781
+Kalimantan Selatan,2013,Male,Urban+Rural,32.97729189
+Kalimantan Selatan,2013,Female,Urban,31.85943667
+Kalimantan Selatan,2013,Female,Rural,35.13601642
+Kalimantan Selatan,2013,Female,Urban+Rural,33.75448467
+Kalimantan Selatan,2014,Male,Urban,32.73006122
+Kalimantan Selatan,2014,Male,Rural,34.94773596
+Kalimantan Selatan,2014,Male,Urban+Rural,34.01067461
+Kalimantan Selatan,2014,Female,Urban,34.47052337
+Kalimantan Selatan,2014,Female,Rural,36.39860156
+Kalimantan Selatan,2014,Female,Urban+Rural,35.58488094
+Kalimantan Selatan,2015,Male,Urban,37.15382562
+Kalimantan Selatan,2015,Male,Rural,38.98673833
+Kalimantan Selatan,2015,Male,Urban+Rural,38.20946262
+Kalimantan Selatan,2015,Female,Urban,40.55018338
+Kalimantan Selatan,2015,Female,Rural,40.22213692
+Kalimantan Selatan,2015,Female,Urban+Rural,40.36106919
+Kalimantan Selatan,2016,Male,Urban,32.59781329
+Kalimantan Selatan,2016,Male,Rural,33.02618617
+Kalimantan Selatan,2016,Male,Urban+Rural,32.84050858
+Kalimantan Selatan,2016,Female,Urban,36.49646117
+Kalimantan Selatan,2016,Female,Rural,35.44987755
+Kalimantan Selatan,2016,Female,Urban+Rural,35.90326381
+Kalimantan Selatan,2017,Male,Urban,33.85820822
+Kalimantan Selatan,2017,Male,Rural,30.58527537
+Kalimantan Selatan,2017,Male,Urban+Rural,32.02950919
+Kalimantan Selatan,2017,Female,Urban,37.57767254
+Kalimantan Selatan,2017,Female,Rural,32.81131497
+Kalimantan Selatan,2017,Female,Urban+Rural,34.91357118
+Kalimantan Selatan,2018,Male,Urban,30.58016441
+Kalimantan Selatan,2018,Male,Rural,31.95994401
+Kalimantan Selatan,2018,Male,Urban+Rural,31.31664634
+Kalimantan Selatan,2018,Female,Urban,34.66215697
+Kalimantan Selatan,2018,Female,Rural,35.76456174
+Kalimantan Selatan,2018,Female,Urban+Rural,35.2517552
+Kalimantan Selatan,2019,Male,Urban,32.70809587
+Kalimantan Selatan,2019,Male,Rural,33.25254287
+Kalimantan Selatan,2019,Male,Urban+Rural,32.99243118
+Kalimantan Selatan,2019,Female,Urban,36.72166128
+Kalimantan Selatan,2019,Female,Rural,37.64533013
+Kalimantan Selatan,2019,Female,Urban+Rural,37.21406133
+Kalimantan Selatan,2020,Male,Urban,31.90200495
+Kalimantan Selatan,2020,Male,Rural,33.77030432
+Kalimantan Selatan,2020,Male,Urban+Rural,32.87786953
+Kalimantan Selatan,2020,Female,Urban,36.71228139
+Kalimantan Selatan,2020,Female,Rural,37.14257997
+Kalimantan Selatan,2020,Female,Urban+Rural,36.94137711
+Kalimantan Selatan,2021,Male,Urban,31.21252323
+Kalimantan Selatan,2021,Male,Rural,29.50256179
+Kalimantan Selatan,2021,Male,Urban+Rural,30.33949097
+Kalimantan Selatan,2021,Female,Urban,35.12338409
+Kalimantan Selatan,2021,Female,Rural,32.44573606
+Kalimantan Selatan,2021,Female,Urban+Rural,33.72582121
+Kalimantan Selatan,2022,Male,Urban,23.47767413
+Kalimantan Selatan,2022,Male,Rural,33.81622732
+Kalimantan Selatan,2022,Male,Urban+Rural,28.75857987
+Kalimantan Selatan,2022,Female,Urban,29.63778735
+Kalimantan Selatan,2022,Female,Rural,38.83524052
+Kalimantan Selatan,2022,Female,Urban+Rural,34.30670319
+Kalimantan Selatan,2023,Male,Urban,23.71813118
+Kalimantan Selatan,2023,Male,Rural,28.42901055
+Kalimantan Selatan,2023,Male,Urban+Rural,26.09602915
+Kalimantan Selatan,2023,Female,Urban,27.41581329
+Kalimantan Selatan,2023,Female,Rural,31.42205606
+Kalimantan Selatan,2023,Female,Urban+Rural,29.43170422
+Kalimantan Timur,2009,Male,Urban,28.42
+Kalimantan Timur,2009,Male,Rural,27.21
+Kalimantan Timur,2009,Male,Urban+Rural,27.96
+Kalimantan Timur,2009,Female,Urban,30.05
+Kalimantan Timur,2009,Female,Rural,29.54
+Kalimantan Timur,2009,Female,Urban+Rural,29.86
+Kalimantan Timur,2010,Male,Urban,31.49
+Kalimantan Timur,2010,Male,Rural,25.9
+Kalimantan Timur,2010,Male,Urban+Rural,29.34
+Kalimantan Timur,2010,Female,Urban,33.89
+Kalimantan Timur,2010,Female,Rural,27.16
+Kalimantan Timur,2010,Female,Urban+Rural,31.38
+Kalimantan Timur,2011,Male,Urban,20.95
+Kalimantan Timur,2011,Male,Rural,23.56
+Kalimantan Timur,2011,Male,Urban+Rural,21.96
+Kalimantan Timur,2011,Female,Urban,25.28
+Kalimantan Timur,2011,Female,Rural,21.68
+Kalimantan Timur,2011,Female,Urban+Rural,23.01
+Kalimantan Timur,2012,Male,Urban,22.09
+Kalimantan Timur,2012,Male,Rural,20.78
+Kalimantan Timur,2012,Male,Urban+Rural,21.58
+Kalimantan Timur,2012,Female,Urban,23.67
+Kalimantan Timur,2012,Female,Rural,22.31
+Kalimantan Timur,2012,Female,Urban+Rural,23.16
+Kalimantan Timur,2013,Male,Urban,17.42705031
+Kalimantan Timur,2013,Male,Rural,20.86625339
+Kalimantan Timur,2013,Male,Urban+Rural,18.75685456
+Kalimantan Timur,2013,Female,Urban,17.33632022
+Kalimantan Timur,2013,Female,Rural,22.95298893
+Kalimantan Timur,2013,Female,Urban+Rural,19.45106974
+Kalimantan Timur,2014,Male,Urban,20.32190848
+Kalimantan Timur,2014,Male,Rural,20.77537112
+Kalimantan Timur,2014,Male,Urban+Rural,20.49726993
+Kalimantan Timur,2014,Female,Urban,21.28196586
+Kalimantan Timur,2014,Female,Rural,23.24909525
+Kalimantan Timur,2014,Female,Urban+Rural,22.02145264
+Kalimantan Timur,2015,Male,Urban,19.92744552
+Kalimantan Timur,2015,Male,Rural,22.18739052
+Kalimantan Timur,2015,Male,Urban+Rural,20.77686897
+Kalimantan Timur,2015,Female,Urban,22.1564535
+Kalimantan Timur,2015,Female,Rural,25.30340602
+Kalimantan Timur,2015,Female,Urban+Rural,23.30238051
+Kalimantan Timur,2016,Male,Urban,21.77615862
+Kalimantan Timur,2016,Male,Rural,19.71742284
+Kalimantan Timur,2016,Male,Urban+Rural,21.02587508
+Kalimantan Timur,2016,Female,Urban,22.8356747
+Kalimantan Timur,2016,Female,Rural,22.05529447
+Kalimantan Timur,2016,Female,Urban+Rural,22.56379323
+Kalimantan Timur,2017,Male,Urban,24.45912195
+Kalimantan Timur,2017,Male,Rural,20.65851427
+Kalimantan Timur,2017,Male,Urban+Rural,23.15856089
+Kalimantan Timur,2017,Female,Urban,27.01852471
+Kalimantan Timur,2017,Female,Rural,20.2450684
+Kalimantan Timur,2017,Female,Urban+Rural,24.76544788
+Kalimantan Timur,2018,Male,Urban,27.00244916
+Kalimantan Timur,2018,Male,Rural,24.40132532
+Kalimantan Timur,2018,Male,Urban+Rural,26.12714824
+Kalimantan Timur,2018,Female,Urban,31.3386807
+Kalimantan Timur,2018,Female,Rural,26.19728395
+Kalimantan Timur,2018,Female,Urban+Rural,29.66171712
+Kalimantan Timur,2019,Male,Urban,26.4103609
+Kalimantan Timur,2019,Male,Rural,21.68313848
+Kalimantan Timur,2019,Male,Urban+Rural,24.88101262
+Kalimantan Timur,2019,Female,Urban,31.8648942
+Kalimantan Timur,2019,Female,Rural,25.90973316
+Kalimantan Timur,2019,Female,Urban+Rural,29.91341788
+Kalimantan Timur,2020,Male,Urban,22.30544394
+Kalimantan Timur,2020,Male,Rural,19.88756041
+Kalimantan Timur,2020,Male,Urban+Rural,21.52292678
+Kalimantan Timur,2020,Female,Urban,25.30642175
+Kalimantan Timur,2020,Female,Rural,20.99337053
+Kalimantan Timur,2020,Female,Urban+Rural,23.88992078
+Kalimantan Timur,2021,Male,Urban,24.04358741
+Kalimantan Timur,2021,Male,Rural,13.73312942
+Kalimantan Timur,2021,Male,Urban+Rural,20.81904119
+Kalimantan Timur,2021,Female,Urban,24.95537098
+Kalimantan Timur,2021,Female,Rural,15.07379675
+Kalimantan Timur,2021,Female,Urban+Rural,21.84800052
+Kalimantan Timur,2022,Male,Urban,22.07536823
+Kalimantan Timur,2022,Male,Rural,30.18968122
+Kalimantan Timur,2022,Male,Urban+Rural,24.66784332
+Kalimantan Timur,2022,Female,Urban,26.049637830000002
+Kalimantan Timur,2022,Female,Rural,35.21896917
+Kalimantan Timur,2022,Female,Urban+Rural,28.77796543
+Kalimantan Timur,2023,Male,Urban,22.41652193
+Kalimantan Timur,2023,Male,Rural,22.00099028
+Kalimantan Timur,2023,Male,Urban+Rural,22.28391662
+Kalimantan Timur,2023,Female,Urban,25.472978350000002
+Kalimantan Timur,2023,Female,Rural,23.43186624
+Kalimantan Timur,2023,Female,Urban+Rural,24.86286798
+Kalimantan Utara,2009,Male,Urban,NA
+Kalimantan Utara,2009,Male,Rural,NA
+Kalimantan Utara,2009,Male,Urban+Rural,NA
+Kalimantan Utara,2009,Female,Urban,NA
+Kalimantan Utara,2009,Female,Rural,NA
+Kalimantan Utara,2009,Female,Urban+Rural,NA
+Kalimantan Utara,2010,Male,Urban,NA
+Kalimantan Utara,2010,Male,Rural,NA
+Kalimantan Utara,2010,Male,Urban+Rural,NA
+Kalimantan Utara,2010,Female,Urban,NA
+Kalimantan Utara,2010,Female,Rural,NA
+Kalimantan Utara,2010,Female,Urban+Rural,NA
+Kalimantan Utara,2011,Male,Urban,NA
+Kalimantan Utara,2011,Male,Rural,NA
+Kalimantan Utara,2011,Male,Urban+Rural,NA
+Kalimantan Utara,2011,Female,Urban,NA
+Kalimantan Utara,2011,Female,Rural,NA
+Kalimantan Utara,2011,Female,Urban+Rural,NA
+Kalimantan Utara,2012,Male,Urban,NA
+Kalimantan Utara,2012,Male,Rural,NA
+Kalimantan Utara,2012,Male,Urban+Rural,NA
+Kalimantan Utara,2012,Female,Urban,NA
+Kalimantan Utara,2012,Female,Rural,NA
+Kalimantan Utara,2012,Female,Urban+Rural,NA
+Kalimantan Utara,2013,Male,Urban,NA
+Kalimantan Utara,2013,Male,Rural,NA
+Kalimantan Utara,2013,Male,Urban+Rural,NA
+Kalimantan Utara,2013,Female,Urban,NA
+Kalimantan Utara,2013,Female,Rural,NA
+Kalimantan Utara,2013,Female,Urban+Rural,NA
+Kalimantan Utara,2014,Male,Urban,NA
+Kalimantan Utara,2014,Male,Rural,NA
+Kalimantan Utara,2014,Male,Urban+Rural,NA
+Kalimantan Utara,2014,Female,Urban,NA
+Kalimantan Utara,2014,Female,Rural,NA
+Kalimantan Utara,2014,Female,Urban+Rural,NA
+Kalimantan Utara,2015,Male,Urban,19.88917102
+Kalimantan Utara,2015,Male,Rural,25.72287968
+Kalimantan Utara,2015,Male,Urban+Rural,22.50147155
+Kalimantan Utara,2015,Female,Urban,23.630039
+Kalimantan Utara,2015,Female,Rural,26.6738183
+Kalimantan Utara,2015,Female,Urban+Rural,24.94882422
+Kalimantan Utara,2016,Male,Urban,20.63967084
+Kalimantan Utara,2016,Male,Rural,21.43058705
+Kalimantan Utara,2016,Male,Urban+Rural,20.98654409
+Kalimantan Utara,2016,Female,Urban,23.9656795
+Kalimantan Utara,2016,Female,Rural,23.96388691
+Kalimantan Utara,2016,Female,Urban+Rural,23.96492469
+Kalimantan Utara,2017,Male,Urban,25.98004508
+Kalimantan Utara,2017,Male,Rural,30.30068452
+Kalimantan Utara,2017,Male,Urban+Rural,27.84152605
+Kalimantan Utara,2017,Female,Urban,28.09671051
+Kalimantan Utara,2017,Female,Rural,30.36208857
+Kalimantan Utara,2017,Female,Urban+Rural,29.04970646
+Kalimantan Utara,2018,Male,Urban,26.84194506
+Kalimantan Utara,2018,Male,Rural,32.6549159
+Kalimantan Utara,2018,Male,Urban+Rural,29.30459554
+Kalimantan Utara,2018,Female,Urban,31.17333236
+Kalimantan Utara,2018,Female,Rural,35.85193487
+Kalimantan Utara,2018,Female,Urban+Rural,33.10581416
+Kalimantan Utara,2019,Male,Urban,26.53362738
+Kalimantan Utara,2019,Male,Rural,25.97212148
+Kalimantan Utara,2019,Male,Urban+Rural,26.30777725
+Kalimantan Utara,2019,Female,Urban,29.29057659
+Kalimantan Utara,2019,Female,Rural,30.01171518
+Kalimantan Utara,2019,Female,Urban+Rural,29.56247504
+Kalimantan Utara,2020,Male,Urban,26.01975033
+Kalimantan Utara,2020,Male,Rural,20.64139473
+Kalimantan Utara,2020,Male,Urban+Rural,23.92633466
+Kalimantan Utara,2020,Female,Urban,29.25436227
+Kalimantan Utara,2020,Female,Rural,27.15416012
+Kalimantan Utara,2020,Female,Urban+Rural,28.41383978
+Kalimantan Utara,2021,Male,Urban,28.70883296
+Kalimantan Utara,2021,Male,Rural,18.20704554
+Kalimantan Utara,2021,Male,Urban+Rural,24.76209293
+Kalimantan Utara,2021,Female,Urban,29.33324793
+Kalimantan Utara,2021,Female,Rural,19.83563823
+Kalimantan Utara,2021,Female,Urban+Rural,25.64676237
+Kalimantan Utara,2022,Male,Urban,33.36568397
+Kalimantan Utara,2022,Male,Rural,36.84536155
+Kalimantan Utara,2022,Male,Urban+Rural,34.65585098
+Kalimantan Utara,2022,Female,Urban,35.50328126
+Kalimantan Utara,2022,Female,Rural,38.4763012
+Kalimantan Utara,2022,Female,Urban+Rural,36.53199398
+Kalimantan Utara,2023,Male,Urban,22.70072419
+Kalimantan Utara,2023,Male,Rural,23.2931374
+Kalimantan Utara,2023,Male,Urban+Rural,22.91888828
+Kalimantan Utara,2023,Female,Urban,22.74464078
+Kalimantan Utara,2023,Female,Rural,26.25854288
+Kalimantan Utara,2023,Female,Urban+Rural,23.95779863
+Sulawesi Utara,2009,Male,Urban,33.83
+Sulawesi Utara,2009,Male,Rural,36.46
+Sulawesi Utara,2009,Male,Urban+Rural,35.34
+Sulawesi Utara,2009,Female,Urban,35.23
+Sulawesi Utara,2009,Female,Rural,37.02
+Sulawesi Utara,2009,Female,Urban+Rural,36.23
+Sulawesi Utara,2010,Male,Urban,30.13
+Sulawesi Utara,2010,Male,Rural,33.99
+Sulawesi Utara,2010,Male,Urban+Rural,32.26
+Sulawesi Utara,2010,Female,Urban,31.16
+Sulawesi Utara,2010,Female,Rural,34.24
+Sulawesi Utara,2010,Female,Urban+Rural,32.84
+Sulawesi Utara,2011,Male,Urban,22.13
+Sulawesi Utara,2011,Male,Rural,30
+Sulawesi Utara,2011,Male,Urban+Rural,26.51
+Sulawesi Utara,2011,Female,Urban,28.64
+Sulawesi Utara,2011,Female,Rural,21.98
+Sulawesi Utara,2011,Female,Urban+Rural,25.57
+Sulawesi Utara,2012,Male,Urban,26.87
+Sulawesi Utara,2012,Male,Rural,27.7
+Sulawesi Utara,2012,Male,Urban+Rural,27.33
+Sulawesi Utara,2012,Female,Urban,28.34
+Sulawesi Utara,2012,Female,Rural,28.94
+Sulawesi Utara,2012,Female,Urban+Rural,28.67
+Sulawesi Utara,2013,Male,Urban,20.95376057
+Sulawesi Utara,2013,Male,Rural,25.83393313
+Sulawesi Utara,2013,Male,Urban+Rural,23.65637272
+Sulawesi Utara,2013,Female,Urban,20.80171656
+Sulawesi Utara,2013,Female,Rural,27.08145407
+Sulawesi Utara,2013,Female,Urban+Rural,24.21656547
+Sulawesi Utara,2014,Male,Urban,23.19612091
+Sulawesi Utara,2014,Male,Rural,28.7067602
+Sulawesi Utara,2014,Male,Urban+Rural,26.25087899
+Sulawesi Utara,2014,Female,Urban,22.67066124
+Sulawesi Utara,2014,Female,Rural,29.71631942
+Sulawesi Utara,2014,Female,Urban+Rural,26.50550054
+Sulawesi Utara,2015,Male,Urban,24.49262915
+Sulawesi Utara,2015,Male,Rural,28.93861954
+Sulawesi Utara,2015,Male,Urban+Rural,26.93623792
+Sulawesi Utara,2015,Female,Urban,25.21776891
+Sulawesi Utara,2015,Female,Rural,29.83794469
+Sulawesi Utara,2015,Female,Urban+Rural,27.70365114
+Sulawesi Utara,2016,Male,Urban,23.14559969
+Sulawesi Utara,2016,Male,Rural,27.68322095
+Sulawesi Utara,2016,Male,Urban+Rural,25.59396213
+Sulawesi Utara,2016,Female,Urban,23.81899065
+Sulawesi Utara,2016,Female,Rural,27.95858482
+Sulawesi Utara,2016,Female,Urban+Rural,25.99947245
+Sulawesi Utara,2017,Male,Urban,23.19580708
+Sulawesi Utara,2017,Male,Rural,28.64535199
+Sulawesi Utara,2017,Male,Urban+Rural,26.0819475
+Sulawesi Utara,2017,Female,Urban,24.42767606
+Sulawesi Utara,2017,Female,Rural,29.90787949
+Sulawesi Utara,2017,Female,Urban+Rural,27.28973786
+Sulawesi Utara,2018,Male,Urban,25.66450918
+Sulawesi Utara,2018,Male,Rural,30.20228642
+Sulawesi Utara,2018,Male,Urban+Rural,27.94832452
+Sulawesi Utara,2018,Female,Urban,27.68841344
+Sulawesi Utara,2018,Female,Rural,32.61934367
+Sulawesi Utara,2018,Female,Urban+Rural,30.11798308
+Sulawesi Utara,2019,Male,Urban,26.25172114
+Sulawesi Utara,2019,Male,Rural,29.75056643
+Sulawesi Utara,2019,Male,Urban+Rural,27.90731414
+Sulawesi Utara,2019,Female,Urban,27.89133746
+Sulawesi Utara,2019,Female,Rural,31.91287542
+Sulawesi Utara,2019,Female,Urban+Rural,29.83203782
+Sulawesi Utara,2020,Male,Urban,22.44356507
+Sulawesi Utara,2020,Male,Rural,25.07839167
+Sulawesi Utara,2020,Male,Urban+Rural,23.69096435
+Sulawesi Utara,2020,Female,Urban,25.1347487
+Sulawesi Utara,2020,Female,Rural,27.60803055
+Sulawesi Utara,2020,Female,Urban+Rural,26.32843231
+Sulawesi Utara,2021,Male,Urban,25.4490028
+Sulawesi Utara,2021,Male,Rural,16.25518533
+Sulawesi Utara,2021,Male,Urban+Rural,21.24362835
+Sulawesi Utara,2021,Female,Urban,26.96719784
+Sulawesi Utara,2021,Female,Rural,18.31091041
+Sulawesi Utara,2021,Female,Urban+Rural,22.96741738
+Sulawesi Utara,2022,Male,Urban,19.17846764
+Sulawesi Utara,2022,Male,Rural,26.7701748
+Sulawesi Utara,2022,Male,Urban+Rural,22.72689315
+Sulawesi Utara,2022,Female,Urban,20.87200745
+Sulawesi Utara,2022,Female,Rural,28.49843805
+Sulawesi Utara,2022,Female,Urban+Rural,24.29725668
+Sulawesi Utara,2023,Male,Urban,23.78191345
+Sulawesi Utara,2023,Male,Rural,23.36239439
+Sulawesi Utara,2023,Male,Urban+Rural,23.58876252
+Sulawesi Utara,2023,Female,Urban,26.7755479
+Sulawesi Utara,2023,Female,Rural,26.27226525
+Sulawesi Utara,2023,Female,Urban+Rural,26.55320979
+Sulawesi Tengah,2009,Male,Urban,36.08
+Sulawesi Tengah,2009,Male,Rural,37.15
+Sulawesi Tengah,2009,Male,Urban+Rural,36.93
+Sulawesi Tengah,2009,Female,Urban,37.6
+Sulawesi Tengah,2009,Female,Rural,38.51
+Sulawesi Tengah,2009,Female,Urban+Rural,38.31
+Sulawesi Tengah,2010,Male,Urban,41.72
+Sulawesi Tengah,2010,Male,Rural,37.78
+Sulawesi Tengah,2010,Male,Urban+Rural,38.72
+Sulawesi Tengah,2010,Female,Urban,41.23
+Sulawesi Tengah,2010,Female,Rural,38.78
+Sulawesi Tengah,2010,Female,Urban+Rural,39.39
+Sulawesi Tengah,2011,Male,Urban,30.29
+Sulawesi Tengah,2011,Male,Rural,34.77
+Sulawesi Tengah,2011,Male,Urban+Rural,33.7
+Sulawesi Tengah,2011,Female,Urban,34.7
+Sulawesi Tengah,2011,Female,Rural,33.31
+Sulawesi Tengah,2011,Female,Urban+Rural,34.36
+Sulawesi Tengah,2012,Male,Urban,30.38
+Sulawesi Tengah,2012,Male,Rural,29.47
+Sulawesi Tengah,2012,Male,Urban+Rural,29.69
+Sulawesi Tengah,2012,Female,Urban,30.9
+Sulawesi Tengah,2012,Female,Rural,30.96
+Sulawesi Tengah,2012,Female,Urban+Rural,30.95
+Sulawesi Tengah,2013,Male,Urban,31.90769587
+Sulawesi Tengah,2013,Male,Rural,29.48117068
+Sulawesi Tengah,2013,Male,Urban+Rural,30.06705125
+Sulawesi Tengah,2013,Female,Urban,32.23138921
+Sulawesi Tengah,2013,Female,Rural,29.72598503
+Sulawesi Tengah,2013,Female,Urban+Rural,30.35284844
+Sulawesi Tengah,2014,Male,Urban,26.85767267
+Sulawesi Tengah,2014,Male,Rural,30.69426859
+Sulawesi Tengah,2014,Male,Urban+Rural,29.7724787
+Sulawesi Tengah,2014,Female,Urban,29.57281143
+Sulawesi Tengah,2014,Female,Rural,31.75251396
+Sulawesi Tengah,2014,Female,Urban+Rural,31.20880031
+Sulawesi Tengah,2015,Male,Urban,29.71318077
+Sulawesi Tengah,2015,Male,Rural,27.70342047
+Sulawesi Tengah,2015,Male,Urban+Rural,28.19353565
+Sulawesi Tengah,2015,Female,Urban,31.16325882
+Sulawesi Tengah,2015,Female,Rural,29.95988983
+Sulawesi Tengah,2015,Female,Urban+Rural,30.26390068
+Sulawesi Tengah,2016,Male,Urban,26.78281738
+Sulawesi Tengah,2016,Male,Rural,25.51140004
+Sulawesi Tengah,2016,Male,Urban+Rural,25.82833488
+Sulawesi Tengah,2016,Female,Urban,28.72845435
+Sulawesi Tengah,2016,Female,Rural,25.66081212
+Sulawesi Tengah,2016,Female,Urban+Rural,26.45969173
+Sulawesi Tengah,2017,Male,Urban,26.42460129
+Sulawesi Tengah,2017,Male,Rural,29.42267003
+Sulawesi Tengah,2017,Male,Urban+Rural,28.65888853
+Sulawesi Tengah,2017,Female,Urban,27.65073035
+Sulawesi Tengah,2017,Female,Rural,32.18638558
+Sulawesi Tengah,2017,Female,Urban+Rural,30.98525259
+Sulawesi Tengah,2018,Male,Urban,29.7337899
+Sulawesi Tengah,2018,Male,Rural,29.78228081
+Sulawesi Tengah,2018,Male,Urban+Rural,29.76896811
+Sulawesi Tengah,2018,Female,Urban,34.82959257
+Sulawesi Tengah,2018,Female,Rural,32.52722791
+Sulawesi Tengah,2018,Female,Urban+Rural,33.18213776
+Sulawesi Tengah,2019,Male,Urban,32.76330124
+Sulawesi Tengah,2019,Male,Rural,29.61027207
+Sulawesi Tengah,2019,Male,Urban+Rural,30.56178666
+Sulawesi Tengah,2019,Female,Urban,38.71847675
+Sulawesi Tengah,2019,Female,Rural,32.25123366
+Sulawesi Tengah,2019,Female,Urban+Rural,34.16173988
+Sulawesi Tengah,2020,Male,Urban,25.19177021
+Sulawesi Tengah,2020,Male,Rural,24.81652807
+Sulawesi Tengah,2020,Male,Urban+Rural,24.9301734
+Sulawesi Tengah,2020,Female,Urban,28.90879498
+Sulawesi Tengah,2020,Female,Rural,26.84134463
+Sulawesi Tengah,2020,Female,Urban+Rural,27.4499714
+Sulawesi Tengah,2021,Male,Urban,32.06068848
+Sulawesi Tengah,2021,Male,Rural,21.40714739
+Sulawesi Tengah,2021,Male,Urban+Rural,24.73108985
+Sulawesi Tengah,2021,Female,Urban,33.10685984
+Sulawesi Tengah,2021,Female,Rural,23.8819382
+Sulawesi Tengah,2021,Female,Urban+Rural,26.72872354
+Sulawesi Tengah,2022,Male,Urban,23.02379722
+Sulawesi Tengah,2022,Male,Rural,21.30667801
+Sulawesi Tengah,2022,Male,Urban+Rural,21.83776133
+Sulawesi Tengah,2022,Female,Urban,23.07048499
+Sulawesi Tengah,2022,Female,Rural,24.08962874
+Sulawesi Tengah,2022,Female,Urban+Rural,23.75097791
+Sulawesi Tengah,2023,Male,Urban,21.82962561
+Sulawesi Tengah,2023,Male,Rural,18.81870009
+Sulawesi Tengah,2023,Male,Urban+Rural,19.77343921
+Sulawesi Tengah,2023,Female,Urban,25.18196594
+Sulawesi Tengah,2023,Female,Rural,20.22574888
+Sulawesi Tengah,2023,Female,Urban+Rural,21.87228896
+Sulawesi Selatan,2009,Male,Urban,30.23
+Sulawesi Selatan,2009,Male,Rural,31.69
+Sulawesi Selatan,2009,Male,Urban+Rural,31.22
+Sulawesi Selatan,2009,Female,Urban,30.16
+Sulawesi Selatan,2009,Female,Rural,33.06
+Sulawesi Selatan,2009,Female,Urban+Rural,32.12
+Sulawesi Selatan,2010,Male,Urban,28.76
+Sulawesi Selatan,2010,Male,Rural,30.39
+Sulawesi Selatan,2010,Male,Urban+Rural,29.8
+Sulawesi Selatan,2010,Female,Urban,31.47
+Sulawesi Selatan,2010,Female,Rural,31.42
+Sulawesi Selatan,2010,Female,Urban+Rural,31.44
+Sulawesi Selatan,2011,Male,Urban,28.09
+Sulawesi Selatan,2011,Male,Rural,26.29
+Sulawesi Selatan,2011,Male,Urban+Rural,26.94
+Sulawesi Selatan,2011,Female,Urban,27.96
+Sulawesi Selatan,2011,Female,Rural,28.23
+Sulawesi Selatan,2011,Female,Urban+Rural,28.06
+Sulawesi Selatan,2012,Male,Urban,26.44
+Sulawesi Selatan,2012,Male,Rural,23.74
+Sulawesi Selatan,2012,Male,Urban+Rural,24.74
+Sulawesi Selatan,2012,Female,Urban,28.48
+Sulawesi Selatan,2012,Female,Rural,25.09
+Sulawesi Selatan,2012,Female,Urban+Rural,26.34
+Sulawesi Selatan,2013,Male,Urban,22.315722010000002
+Sulawesi Selatan,2013,Male,Rural,24.24645881
+Sulawesi Selatan,2013,Male,Urban+Rural,23.5291436
+Sulawesi Selatan,2013,Female,Urban,22.25573452
+Sulawesi Selatan,2013,Female,Rural,25.83961004
+Sulawesi Selatan,2013,Female,Urban+Rural,24.5228509
+Sulawesi Selatan,2014,Male,Urban,20.74700402
+Sulawesi Selatan,2014,Male,Rural,26.41811805
+Sulawesi Selatan,2014,Male,Urban+Rural,24.30655841
+Sulawesi Selatan,2014,Female,Urban,21.73013602
+Sulawesi Selatan,2014,Female,Rural,27.27257533
+Sulawesi Selatan,2014,Female,Urban+Rural,25.22999311
+Sulawesi Selatan,2015,Male,Urban,25.24032699
+Sulawesi Selatan,2015,Male,Rural,25.9800961
+Sulawesi Selatan,2015,Male,Urban+Rural,25.70209954
+Sulawesi Selatan,2015,Female,Urban,26.10317631
+Sulawesi Selatan,2015,Female,Rural,27.33136054
+Sulawesi Selatan,2015,Female,Urban+Rural,26.87501844
+Sulawesi Selatan,2016,Male,Urban,21.04391506
+Sulawesi Selatan,2016,Male,Rural,23.58500709
+Sulawesi Selatan,2016,Male,Urban+Rural,22.60083004
+Sulawesi Selatan,2016,Female,Urban,24.27849655
+Sulawesi Selatan,2016,Female,Rural,24.67122043
+Sulawesi Selatan,2016,Female,Urban+Rural,24.52105259
+Sulawesi Selatan,2017,Male,Urban,23.84070041
+Sulawesi Selatan,2017,Male,Rural,23.0811614
+Sulawesi Selatan,2017,Male,Urban+Rural,23.38317868
+Sulawesi Selatan,2017,Female,Urban,26.28754328
+Sulawesi Selatan,2017,Female,Rural,25.74540575
+Sulawesi Selatan,2017,Female,Urban+Rural,25.95874971
+Sulawesi Selatan,2018,Male,Urban,28.7939233
+Sulawesi Selatan,2018,Male,Rural,27.3200957
+Sulawesi Selatan,2018,Male,Urban+Rural,27.93710367
+Sulawesi Selatan,2018,Female,Urban,31.88111461
+Sulawesi Selatan,2018,Female,Rural,29.7632655
+Sulawesi Selatan,2018,Female,Urban+Rural,30.64172171
+Sulawesi Selatan,2019,Male,Urban,29.99484541
+Sulawesi Selatan,2019,Male,Rural,27.36307896
+Sulawesi Selatan,2019,Male,Urban+Rural,28.52450307
+Sulawesi Selatan,2019,Female,Urban,33.2839745
+Sulawesi Selatan,2019,Female,Rural,30.41040683
+Sulawesi Selatan,2019,Female,Urban+Rural,31.63629286
+Sulawesi Selatan,2020,Male,Urban,28.02666863
+Sulawesi Selatan,2020,Male,Rural,26.43808203
+Sulawesi Selatan,2020,Male,Urban+Rural,27.13965256
+Sulawesi Selatan,2020,Female,Urban,31.77829651
+Sulawesi Selatan,2020,Female,Rural,29.71412686
+Sulawesi Selatan,2020,Female,Urban+Rural,30.59686465
+Sulawesi Selatan,2021,Male,Urban,34.82305293
+Sulawesi Selatan,2021,Male,Rural,19.42002568
+Sulawesi Selatan,2021,Male,Urban+Rural,26.43522772
+Sulawesi Selatan,2021,Female,Urban,36.84640461
+Sulawesi Selatan,2021,Female,Rural,23.762856
+Sulawesi Selatan,2021,Female,Urban+Rural,29.55603875
+Sulawesi Selatan,2022,Male,Urban,25.29236244
+Sulawesi Selatan,2022,Male,Rural,36.48700268
+Sulawesi Selatan,2022,Male,Urban+Rural,31.37578268
+Sulawesi Selatan,2022,Female,Urban,28.95967215
+Sulawesi Selatan,2022,Female,Rural,41.92083834
+Sulawesi Selatan,2022,Female,Urban+Rural,36.01094377
+Sulawesi Selatan,2023,Male,Urban,20.60982621
+Sulawesi Selatan,2023,Male,Rural,20.82833719
+Sulawesi Selatan,2023,Male,Urban+Rural,20.72591445
+Sulawesi Selatan,2023,Female,Urban,22.985057
+Sulawesi Selatan,2023,Female,Rural,25.41418559
+Sulawesi Selatan,2023,Female,Urban+Rural,24.29092186
+Sulawesi Tenggara,2009,Male,Urban,34.32
+Sulawesi Tenggara,2009,Male,Rural,34.41
+Sulawesi Tenggara,2009,Male,Urban+Rural,34.39
+Sulawesi Tenggara,2009,Female,Urban,37.03
+Sulawesi Tenggara,2009,Female,Rural,37.48
+Sulawesi Tenggara,2009,Female,Urban+Rural,37.38
+Sulawesi Tenggara,2010,Male,Urban,37.69
+Sulawesi Tenggara,2010,Male,Rural,34.7
+Sulawesi Tenggara,2010,Male,Urban+Rural,35.52
+Sulawesi Tenggara,2010,Female,Urban,39.33
+Sulawesi Tenggara,2010,Female,Rural,34.77
+Sulawesi Tenggara,2010,Female,Urban+Rural,36.02
+Sulawesi Tenggara,2011,Male,Urban,24.04
+Sulawesi Tenggara,2011,Male,Rural,26.89
+Sulawesi Tenggara,2011,Male,Urban+Rural,26.11
+Sulawesi Tenggara,2011,Female,Urban,28.53
+Sulawesi Tenggara,2011,Female,Rural,25.69
+Sulawesi Tenggara,2011,Female,Urban+Rural,27.75
+Sulawesi Tenggara,2012,Male,Urban,29.26
+Sulawesi Tenggara,2012,Male,Rural,27.12
+Sulawesi Tenggara,2012,Male,Urban+Rural,27.71
+Sulawesi Tenggara,2012,Female,Urban,32.55
+Sulawesi Tenggara,2012,Female,Rural,30.61
+Sulawesi Tenggara,2012,Female,Urban+Rural,31.15
+Sulawesi Tenggara,2013,Male,Urban,26.88182119
+Sulawesi Tenggara,2013,Male,Rural,26.39226828
+Sulawesi Tenggara,2013,Male,Urban+Rural,26.52833914
+Sulawesi Tenggara,2013,Female,Urban,29.05187209
+Sulawesi Tenggara,2013,Female,Rural,29.72667801
+Sulawesi Tenggara,2013,Female,Urban+Rural,29.53710423
+Sulawesi Tenggara,2014,Male,Urban,25.16151709
+Sulawesi Tenggara,2014,Male,Rural,28.55980584
+Sulawesi Tenggara,2014,Male,Urban+Rural,27.61313322
+Sulawesi Tenggara,2014,Female,Urban,30.43640382
+Sulawesi Tenggara,2014,Female,Rural,30.20887333
+Sulawesi Tenggara,2014,Female,Urban+Rural,30.27300622
+Sulawesi Tenggara,2015,Male,Urban,25.74387018
+Sulawesi Tenggara,2015,Male,Rural,24.74774348
+Sulawesi Tenggara,2015,Male,Urban+Rural,25.03248638
+Sulawesi Tenggara,2015,Female,Urban,29.9140358
+Sulawesi Tenggara,2015,Female,Rural,25.38564953
+Sulawesi Tenggara,2015,Female,Urban+Rural,26.70022965
+Sulawesi Tenggara,2016,Male,Urban,31.61026953
+Sulawesi Tenggara,2016,Male,Rural,23.9668466
+Sulawesi Tenggara,2016,Male,Urban+Rural,26.22998422
+Sulawesi Tenggara,2016,Female,Urban,33.30371437
+Sulawesi Tenggara,2016,Female,Rural,24.93914608
+Sulawesi Tenggara,2016,Female,Urban+Rural,27.45066851
+Sulawesi Tenggara,2017,Male,Urban,24.64383182
+Sulawesi Tenggara,2017,Male,Rural,22.64143945
+Sulawesi Tenggara,2017,Male,Urban+Rural,23.28128396
+Sulawesi Tenggara,2017,Female,Urban,25.88342634
+Sulawesi Tenggara,2017,Female,Rural,24.45420593
+Sulawesi Tenggara,2017,Female,Urban+Rural,24.91399465
+Sulawesi Tenggara,2018,Male,Urban,24.54941929
+Sulawesi Tenggara,2018,Male,Rural,26.57212663
+Sulawesi Tenggara,2018,Male,Urban+Rural,25.79714813
+Sulawesi Tenggara,2018,Female,Urban,28.53314151
+Sulawesi Tenggara,2018,Female,Rural,30.65216782
+Sulawesi Tenggara,2018,Female,Urban+Rural,29.84045658
+Sulawesi Tenggara,2019,Male,Urban,29.05517552
+Sulawesi Tenggara,2019,Male,Rural,25.74716972
+Sulawesi Tenggara,2019,Male,Urban+Rural,27.0597032
+Sulawesi Tenggara,2019,Female,Urban,31.26442691
+Sulawesi Tenggara,2019,Female,Rural,29.07897539
+Sulawesi Tenggara,2019,Female,Urban+Rural,29.92326597
+Sulawesi Tenggara,2020,Male,Urban,28.58365773
+Sulawesi Tenggara,2020,Male,Rural,27.58078262
+Sulawesi Tenggara,2020,Male,Urban+Rural,27.98154879
+Sulawesi Tenggara,2020,Female,Urban,30.77101337
+Sulawesi Tenggara,2020,Female,Rural,30.33823239
+Sulawesi Tenggara,2020,Female,Urban+Rural,30.50517726
+Sulawesi Tenggara,2021,Male,Urban,31.27336774
+Sulawesi Tenggara,2021,Male,Rural,20.61315373
+Sulawesi Tenggara,2021,Male,Urban+Rural,24.50633055
+Sulawesi Tenggara,2021,Female,Urban,32.9682335
+Sulawesi Tenggara,2021,Female,Rural,23.90785238
+Sulawesi Tenggara,2021,Female,Urban+Rural,27.09226576
+Sulawesi Tenggara,2022,Male,Urban,25.59644003
+Sulawesi Tenggara,2022,Male,Rural,31.27678425
+Sulawesi Tenggara,2022,Male,Urban+Rural,29.22806623
+Sulawesi Tenggara,2022,Female,Urban,30.08110401
+Sulawesi Tenggara,2022,Female,Rural,35.22575343
+Sulawesi Tenggara,2022,Female,Urban+Rural,33.31945722
+Sulawesi Tenggara,2023,Male,Urban,18.18718701
+Sulawesi Tenggara,2023,Male,Rural,19.92582544
+Sulawesi Tenggara,2023,Male,Urban+Rural,19.26515486
+Sulawesi Tenggara,2023,Female,Urban,22.27589197
+Sulawesi Tenggara,2023,Female,Rural,23.4618041
+Sulawesi Tenggara,2023,Female,Urban+Rural,23.00235179
+Gorontalo,2009,Male,Urban,42.03
+Gorontalo,2009,Male,Rural,51.18
+Gorontalo,2009,Male,Urban+Rural,48.33
+Gorontalo,2009,Female,Urban,39.86
+Gorontalo,2009,Female,Rural,52.74
+Gorontalo,2009,Female,Urban+Rural,48.64
+Gorontalo,2010,Male,Urban,34.14
+Gorontalo,2010,Male,Rural,47.05
+Gorontalo,2010,Male,Urban+Rural,42.75
+Gorontalo,2010,Female,Urban,34.62
+Gorontalo,2010,Female,Rural,46.77
+Gorontalo,2010,Female,Urban+Rural,42.55
+Gorontalo,2011,Male,Urban,35.83
+Gorontalo,2011,Male,Rural,43.9
+Gorontalo,2011,Male,Urban+Rural,41.18
+Gorontalo,2011,Female,Urban,44.42
+Gorontalo,2011,Female,Rural,32.87
+Gorontalo,2011,Female,Urban+Rural,40.45
+Gorontalo,2012,Male,Urban,38.63
+Gorontalo,2012,Male,Rural,37.99
+Gorontalo,2012,Male,Urban+Rural,38.2
+Gorontalo,2012,Female,Urban,38.21
+Gorontalo,2012,Female,Rural,35.84
+Gorontalo,2012,Female,Urban+Rural,36.67
+Gorontalo,2013,Male,Urban,37.03265353
+Gorontalo,2013,Male,Rural,37.17068393
+Gorontalo,2013,Male,Urban+Rural,37.12437632
+Gorontalo,2013,Female,Urban,36.52255235
+Gorontalo,2013,Female,Rural,36.53408272
+Gorontalo,2013,Female,Urban+Rural,36.53005984
+Gorontalo,2014,Male,Urban,40.22909657
+Gorontalo,2014,Male,Rural,35.07428936
+Gorontalo,2014,Male,Urban+Rural,36.80979617
+Gorontalo,2014,Female,Urban,41.42992218
+Gorontalo,2014,Female,Rural,34.26775551
+Gorontalo,2014,Female,Urban+Rural,36.77380352
+Gorontalo,2015,Male,Urban,31.88553163
+Gorontalo,2015,Male,Rural,39.85530397
+Gorontalo,2015,Male,Urban+Rural,37.14688693
+Gorontalo,2015,Female,Urban,32.55350903
+Gorontalo,2015,Female,Rural,40.5576104
+Gorontalo,2015,Female,Urban+Rural,37.72282834
+Gorontalo,2016,Male,Urban,33.43410031
+Gorontalo,2016,Male,Rural,32.78607504
+Gorontalo,2016,Male,Urban+Rural,33.01428012
+Gorontalo,2016,Female,Urban,35.67220548
+Gorontalo,2016,Female,Rural,33.60478265
+Gorontalo,2016,Female,Urban+Rural,34.36528408
+Gorontalo,2017,Male,Urban,33.91074856
+Gorontalo,2017,Male,Rural,33.86091002
+Gorontalo,2017,Male,Urban+Rural,33.87872149
+Gorontalo,2017,Female,Urban,35.88776819
+Gorontalo,2017,Female,Rural,34.45927673
+Gorontalo,2017,Female,Urban+Rural,34.98859663
+Gorontalo,2018,Male,Urban,34.03425934
+Gorontalo,2018,Male,Rural,37.02626484
+Gorontalo,2018,Male,Urban+Rural,35.88780527
+Gorontalo,2018,Female,Urban,36.01396091
+Gorontalo,2018,Female,Rural,39.30168131
+Gorontalo,2018,Female,Urban+Rural,38.00784276
+Gorontalo,2019,Male,Urban,39.50057236
+Gorontalo,2019,Male,Rural,32.56550045
+Gorontalo,2019,Male,Urban+Rural,35.51228264
+Gorontalo,2019,Female,Urban,38.91046717
+Gorontalo,2019,Female,Rural,38.09337338
+Gorontalo,2019,Female,Urban+Rural,38.43572391
+Gorontalo,2020,Male,Urban,30.08331976
+Gorontalo,2020,Male,Rural,29.52280044
+Gorontalo,2020,Male,Urban+Rural,29.7611968
+Gorontalo,2020,Female,Urban,32.80216552
+Gorontalo,2020,Female,Rural,35.95608868
+Gorontalo,2020,Female,Urban+Rural,34.63443702
+Gorontalo,2021,Male,Urban,33.66532518
+Gorontalo,2021,Male,Rural,25.23174548
+Gorontalo,2021,Male,Urban+Rural,28.93139871
+Gorontalo,2021,Female,Urban,38.39420658
+Gorontalo,2021,Female,Rural,29.14987909
+Gorontalo,2021,Female,Urban+Rural,33.18655947
+Gorontalo,2022,Male,Urban,34.36244038
+Gorontalo,2022,Male,Rural,33.44054563
+Gorontalo,2022,Male,Urban+Rural,33.83585419
+Gorontalo,2022,Female,Urban,39.49405008
+Gorontalo,2022,Female,Rural,39.07290028
+Gorontalo,2022,Female,Urban+Rural,39.26397448
+Gorontalo,2023,Male,Urban,36.50298335
+Gorontalo,2023,Male,Rural,31.07557127
+Gorontalo,2023,Male,Urban+Rural,33.42852527
+Gorontalo,2023,Female,Urban,40.18879561
+Gorontalo,2023,Female,Rural,34.81397369
+Gorontalo,2023,Female,Urban+Rural,37.27041368
+Sulawesi Barat,2009,Male,Urban,31.35
+Sulawesi Barat,2009,Male,Rural,40.64
+Sulawesi Barat,2009,Male,Urban+Rural,37.58
+Sulawesi Barat,2009,Female,Urban,33.64
+Sulawesi Barat,2009,Female,Rural,41.06
+Sulawesi Barat,2009,Female,Urban+Rural,38.59
+Sulawesi Barat,2010,Male,Urban,36.98
+Sulawesi Barat,2010,Male,Rural,35.37
+Sulawesi Barat,2010,Male,Urban+Rural,35.73
+Sulawesi Barat,2010,Female,Urban,39.58
+Sulawesi Barat,2010,Female,Rural,34.89
+Sulawesi Barat,2010,Female,Urban+Rural,35.98
+Sulawesi Barat,2011,Male,Urban,36.51
+Sulawesi Barat,2011,Male,Rural,32.33
+Sulawesi Barat,2011,Male,Urban+Rural,33.27
+Sulawesi Barat,2011,Female,Urban,33.87
+Sulawesi Barat,2011,Female,Rural,35
+Sulawesi Barat,2011,Female,Urban+Rural,34.14
+Sulawesi Barat,2012,Male,Urban,34.89
+Sulawesi Barat,2012,Male,Rural,31.35
+Sulawesi Barat,2012,Male,Urban+Rural,32.15
+Sulawesi Barat,2012,Female,Urban,41.35
+Sulawesi Barat,2012,Female,Rural,33.19
+Sulawesi Barat,2012,Female,Urban+Rural,35.08
+Sulawesi Barat,2013,Male,Urban,30.15848057
+Sulawesi Barat,2013,Male,Rural,30.10879391
+Sulawesi Barat,2013,Male,Urban+Rural,30.11992798
+Sulawesi Barat,2013,Female,Urban,33.41883014
+Sulawesi Barat,2013,Female,Rural,30.67700597
+Sulawesi Barat,2013,Female,Urban+Rural,31.30982672
+Sulawesi Barat,2014,Male,Urban,31.56287557
+Sulawesi Barat,2014,Male,Rural,29.22533113
+Sulawesi Barat,2014,Male,Urban+Rural,29.7502429
+Sulawesi Barat,2014,Female,Urban,33.67838232
+Sulawesi Barat,2014,Female,Rural,33.08766841
+Sulawesi Barat,2014,Female,Urban+Rural,33.22434203
+Sulawesi Barat,2015,Male,Urban,30.0913228
+Sulawesi Barat,2015,Male,Rural,28.41968769
+Sulawesi Barat,2015,Male,Urban+Rural,28.74947858
+Sulawesi Barat,2015,Female,Urban,32.98642694
+Sulawesi Barat,2015,Female,Rural,29.8120678
+Sulawesi Barat,2015,Female,Urban+Rural,30.46326001
+Sulawesi Barat,2016,Male,Urban,28.28778451
+Sulawesi Barat,2016,Male,Rural,25.36431828
+Sulawesi Barat,2016,Male,Urban+Rural,25.95026214
+Sulawesi Barat,2016,Female,Urban,31.16790409
+Sulawesi Barat,2016,Female,Rural,26.56080655
+Sulawesi Barat,2016,Female,Urban+Rural,27.52191007
+Sulawesi Barat,2017,Male,Urban,24.75052149
+Sulawesi Barat,2017,Male,Rural,24.8696253
+Sulawesi Barat,2017,Male,Urban+Rural,24.84527488
+Sulawesi Barat,2017,Female,Urban,25.8512125
+Sulawesi Barat,2017,Female,Rural,26.86393886
+Sulawesi Barat,2017,Female,Urban+Rural,26.64968591
+Sulawesi Barat,2018,Male,Urban,31.39483773
+Sulawesi Barat,2018,Male,Rural,27.92194701
+Sulawesi Barat,2018,Male,Urban+Rural,28.72748856
+Sulawesi Barat,2018,Female,Urban,31.37825767
+Sulawesi Barat,2018,Female,Rural,29.85390238
+Sulawesi Barat,2018,Female,Urban+Rural,30.22116376
+Sulawesi Barat,2019,Male,Urban,25.89751293
+Sulawesi Barat,2019,Male,Rural,26.16010745
+Sulawesi Barat,2019,Male,Urban+Rural,26.09742671
+Sulawesi Barat,2019,Female,Urban,25.73385274
+Sulawesi Barat,2019,Female,Rural,27.95800936
+Sulawesi Barat,2019,Female,Urban+Rural,27.43747069
+Sulawesi Barat,2020,Male,Urban,24.8176684
+Sulawesi Barat,2020,Male,Rural,24.6881324
+Sulawesi Barat,2020,Male,Urban+Rural,24.71912753
+Sulawesi Barat,2020,Female,Urban,29.70150095
+Sulawesi Barat,2020,Female,Rural,27.31987419
+Sulawesi Barat,2020,Female,Urban+Rural,27.87441349
+Sulawesi Barat,2021,Male,Urban,31.49199658
+Sulawesi Barat,2021,Male,Rural,22.54029111
+Sulawesi Barat,2021,Male,Urban+Rural,24.38064253
+Sulawesi Barat,2021,Female,Urban,34.20625906
+Sulawesi Barat,2021,Female,Rural,25.63392231
+Sulawesi Barat,2021,Female,Urban+Rural,27.36230513
+Sulawesi Barat,2022,Male,Urban,31.71588107
+Sulawesi Barat,2022,Male,Rural,27.44804852
+Sulawesi Barat,2022,Male,Urban+Rural,28.29095072
+Sulawesi Barat,2022,Female,Urban,37.35279991
+Sulawesi Barat,2022,Female,Rural,32.61134775
+Sulawesi Barat,2022,Female,Urban+Rural,33.59873008
+Sulawesi Barat,2023,Male,Urban,23.39244044
+Sulawesi Barat,2023,Male,Rural,22.76152581
+Sulawesi Barat,2023,Male,Urban+Rural,22.88698508
+Sulawesi Barat,2023,Female,Urban,24.12932623
+Sulawesi Barat,2023,Female,Rural,27.46536378
+Sulawesi Barat,2023,Female,Urban+Rural,26.7743532
+Maluku,2009,Male,Urban,32.59
+Maluku,2009,Male,Rural,35.97
+Maluku,2009,Male,Urban+Rural,35.1
+Maluku,2009,Female,Urban,29.52
+Maluku,2009,Female,Rural,40.51
+Maluku,2009,Female,Urban+Rural,37.54
+Maluku,2010,Male,Urban,29.18
+Maluku,2010,Male,Rural,32.64
+Maluku,2010,Male,Urban+Rural,31.36
+Maluku,2010,Female,Urban,28.83
+Maluku,2010,Female,Rural,34.69
+Maluku,2010,Female,Urban+Rural,32.5
+Maluku,2011,Male,Urban,22.93
+Maluku,2011,Male,Rural,26.51
+Maluku,2011,Male,Urban+Rural,25.23
+Maluku,2011,Female,Urban,30.28
+Maluku,2011,Female,Rural,25.31
+Maluku,2011,Female,Urban+Rural,28.36
+Maluku,2012,Male,Urban,20.8
+Maluku,2012,Male,Rural,20.86
+Maluku,2012,Male,Urban+Rural,20.84
+Maluku,2012,Female,Urban,23.56
+Maluku,2012,Female,Rural,23.08
+Maluku,2012,Female,Urban+Rural,23.26
+Maluku,2013,Male,Urban,18.31651189
+Maluku,2013,Male,Rural,21.5659982
+Maluku,2013,Male,Urban+Rural,20.32263529
+Maluku,2013,Female,Urban,19.94182326
+Maluku,2013,Female,Rural,22.19474471
+Maluku,2013,Female,Urban+Rural,21.32320333
+Maluku,2014,Male,Urban,19.22799461
+Maluku,2014,Male,Rural,19.99270879
+Maluku,2014,Male,Urban+Rural,19.69800542
+Maluku,2014,Female,Urban,20.20938078
+Maluku,2014,Female,Rural,20.69462551
+Maluku,2014,Female,Urban+Rural,20.50546739
+Maluku,2015,Male,Urban,16.57776061
+Maluku,2015,Male,Rural,17.2138829
+Maluku,2015,Male,Urban+Rural,16.96798189
+Maluku,2015,Female,Urban,18.7705896
+Maluku,2015,Female,Rural,17.87472853
+Maluku,2015,Female,Urban+Rural,18.22537987
+Maluku,2016,Male,Urban,16.48865098
+Maluku,2016,Male,Rural,17.27896058
+Maluku,2016,Male,Urban+Rural,16.96637512
+Maluku,2016,Female,Urban,19.27013871
+Maluku,2016,Female,Rural,17.7976543
+Maluku,2016,Female,Urban+Rural,18.38828244
+Maluku,2017,Male,Urban,18.73100683
+Maluku,2017,Male,Rural,17.50361432
+Maluku,2017,Male,Urban+Rural,18.00074071
+Maluku,2017,Female,Urban,21.0840644
+Maluku,2017,Female,Rural,19.57637613
+Maluku,2017,Female,Urban+Rural,20.19325506
+Maluku,2018,Male,Urban,18.12769124
+Maluku,2018,Male,Rural,20.20784922
+Maluku,2018,Male,Urban+Rural,19.3445778
+Maluku,2018,Female,Urban,20.56827812
+Maluku,2018,Female,Rural,20.7179256
+Maluku,2018,Female,Urban+Rural,20.65510093
+Maluku,2019,Male,Urban,19.14304481
+Maluku,2019,Male,Rural,17.26355443
+Maluku,2019,Male,Urban+Rural,18.09265929
+Maluku,2019,Female,Urban,21.59463452
+Maluku,2019,Female,Rural,19.97041513
+Maluku,2019,Female,Urban+Rural,20.66735993
+Maluku,2020,Male,Urban,15.84243246
+Maluku,2020,Male,Rural,17.47386287
+Maluku,2020,Male,Urban+Rural,16.74848713
+Maluku,2020,Female,Urban,20.28896405
+Maluku,2020,Female,Rural,20.49472638
+Maluku,2020,Female,Urban+Rural,20.405556700000002
+Maluku,2021,Male,Urban,15.07571041
+Maluku,2021,Male,Rural,14.47006656
+Maluku,2021,Male,Urban+Rural,14.73876395
+Maluku,2021,Female,Urban,19.25215583
+Maluku,2021,Female,Rural,17.27738271
+Maluku,2021,Female,Urban+Rural,18.13800422
+Maluku,2022,Male,Urban,12.61733808
+Maluku,2022,Male,Rural,14.28715953
+Maluku,2022,Male,Urban+Rural,13.5617678
+Maluku,2022,Female,Urban,17.41341394
+Maluku,2022,Female,Rural,16.55297618
+Maluku,2022,Female,Urban+Rural,16.93505396
+Maluku,2023,Male,Urban,18.74008415
+Maluku,2023,Male,Rural,17.12530265
+Maluku,2023,Male,Urban+Rural,17.81370717
+Maluku,2023,Female,Urban,22.20104057
+Maluku,2023,Female,Rural,18.79661752
+Maluku,2023,Female,Urban+Rural,20.26840694
+Maluku Utara,2009,Male,Urban,26.35
+Maluku Utara,2009,Male,Rural,26.82
+Maluku Utara,2009,Male,Urban+Rural,26.69
+Maluku Utara,2009,Female,Urban,29.81
+Maluku Utara,2009,Female,Rural,28
+Maluku Utara,2009,Female,Urban+Rural,28.55
+Maluku Utara,2010,Male,Urban,30.63
+Maluku Utara,2010,Male,Rural,32.14
+Maluku Utara,2010,Male,Urban+Rural,31.73
+Maluku Utara,2010,Female,Urban,30.82
+Maluku Utara,2010,Female,Rural,33.12
+Maluku Utara,2010,Female,Urban+Rural,32.49
+Maluku Utara,2011,Male,Urban,18
+Maluku Utara,2011,Male,Rural,21.62
+Maluku Utara,2011,Male,Urban+Rural,20.65
+Maluku Utara,2011,Female,Urban,24.56
+Maluku Utara,2011,Female,Rural,18.14
+Maluku Utara,2011,Female,Urban+Rural,22.79
+Maluku Utara,2012,Male,Urban,18.36
+Maluku Utara,2012,Male,Rural,18.58
+Maluku Utara,2012,Male,Urban+Rural,18.52
+Maluku Utara,2012,Female,Urban,17.81
+Maluku Utara,2012,Female,Rural,18.84
+Maluku Utara,2012,Female,Urban+Rural,18.55
+Maluku Utara,2013,Male,Urban,11.7665379
+Maluku Utara,2013,Male,Rural,15.78113366
+Maluku Utara,2013,Male,Urban+Rural,14.68758226
+Maluku Utara,2013,Female,Urban,12.59913662
+Maluku Utara,2013,Female,Rural,17.74363957
+Maluku Utara,2013,Female,Urban+Rural,16.31801883
+Maluku Utara,2014,Male,Urban,12.2797488
+Maluku Utara,2014,Male,Rural,16.02714645
+Maluku Utara,2014,Male,Urban+Rural,14.99757612
+Maluku Utara,2014,Female,Urban,15.2033912
+Maluku Utara,2014,Female,Rural,16.89791207
+Maluku Utara,2014,Female,Urban+Rural,16.42711267
+Maluku Utara,2015,Male,Urban,19.03502314
+Maluku Utara,2015,Male,Rural,15.00981705
+Maluku Utara,2015,Male,Urban+Rural,16.10301283
+Maluku Utara,2015,Female,Urban,20.16863006
+Maluku Utara,2015,Female,Rural,16.2841348
+Maluku Utara,2015,Female,Urban+Rural,17.34354651
+Maluku Utara,2016,Male,Urban,17.4358763
+Maluku Utara,2016,Male,Rural,14.60001008
+Maluku Utara,2016,Male,Urban+Rural,15.35974141
+Maluku Utara,2016,Female,Urban,19.03228351
+Maluku Utara,2016,Female,Rural,16.47855433
+Maluku Utara,2016,Female,Urban+Rural,17.17369737
+Maluku Utara,2017,Male,Urban,13.07556887
+Maluku Utara,2017,Male,Rural,16.23334191
+Maluku Utara,2017,Male,Urban+Rural,15.36629489
+Maluku Utara,2017,Female,Urban,14.50216365
+Maluku Utara,2017,Female,Rural,17.59630863
+Maluku Utara,2017,Female,Urban+Rural,16.73739089
+Maluku Utara,2018,Male,Urban,19.1683167
+Maluku Utara,2018,Male,Rural,19.03682036
+Maluku Utara,2018,Male,Urban+Rural,19.07418681
+Maluku Utara,2018,Female,Urban,21.56904235
+Maluku Utara,2018,Female,Rural,20.5599905
+Maluku Utara,2018,Female,Urban+Rural,20.85076001
+Maluku Utara,2019,Male,Urban,18.84783784
+Maluku Utara,2019,Male,Rural,15.81895796
+Maluku Utara,2019,Male,Urban+Rural,16.7029438
+Maluku Utara,2019,Female,Urban,20.68531528
+Maluku Utara,2019,Female,Rural,18.80568076
+Maluku Utara,2019,Female,Urban+Rural,19.33633076
+Maluku Utara,2020,Male,Urban,15.40529053
+Maluku Utara,2020,Male,Rural,14.4785111
+Maluku Utara,2020,Male,Urban+Rural,14.74884872
+Maluku Utara,2020,Female,Urban,18.3269116
+Maluku Utara,2020,Female,Rural,16.81991243
+Maluku Utara,2020,Female,Urban+Rural,17.24666063
+Maluku Utara,2021,Male,Urban,12.87122705
+Maluku Utara,2021,Male,Rural,15.35215177
+Maluku Utara,2021,Male,Urban+Rural,14.63426312
+Maluku Utara,2021,Female,Urban,15.14647744
+Maluku Utara,2021,Female,Rural,17.35019505
+Maluku Utara,2021,Female,Urban+Rural,16.72920995
+Maluku Utara,2022,Male,Urban,11.27732879
+Maluku Utara,2022,Male,Rural,16.45226641
+Maluku Utara,2022,Male,Urban+Rural,14.9818313
+Maluku Utara,2022,Female,Urban,15.81641462
+Maluku Utara,2022,Female,Rural,19.98522066
+Maluku Utara,2022,Female,Urban+Rural,18.73965591
+Maluku Utara,2023,Male,Urban,11.98331748
+Maluku Utara,2023,Male,Rural,15.08087951
+Maluku Utara,2023,Male,Urban+Rural,14.19763209
+Maluku Utara,2023,Female,Urban,14.69588035
+Maluku Utara,2023,Female,Rural,17.68663741
+Maluku Utara,2023,Female,Urban+Rural,16.80896665
+Papua Barat,2009,Male,Urban,34.72
+Papua Barat,2009,Male,Rural,26.95
+Papua Barat,2009,Male,Urban+Rural,29.24
+Papua Barat,2009,Female,Urban,37.87
+Papua Barat,2009,Female,Rural,28.3
+Papua Barat,2009,Female,Urban+Rural,31.15
+Papua Barat,2010,Male,Urban,31.61
+Papua Barat,2010,Male,Rural,29.69
+Papua Barat,2010,Male,Urban+Rural,30.27
+Papua Barat,2010,Female,Urban,34.72
+Papua Barat,2010,Female,Rural,32.11
+Papua Barat,2010,Female,Urban+Rural,32.89
+Papua Barat,2011,Male,Urban,22.93
+Papua Barat,2011,Male,Rural,25.24
+Papua Barat,2011,Male,Urban+Rural,24.53
+Papua Barat,2011,Female,Urban,26.91
+Papua Barat,2011,Female,Rural,25.56
+Papua Barat,2011,Female,Urban+Rural,26.52
+Papua Barat,2012,Male,Urban,17.82
+Papua Barat,2012,Male,Rural,22.17
+Papua Barat,2012,Male,Urban+Rural,20.5
+Papua Barat,2012,Female,Urban,18.11
+Papua Barat,2012,Female,Rural,24.18
+Papua Barat,2012,Female,Urban+Rural,21.83
+Papua Barat,2013,Male,Urban,22.10696565
+Papua Barat,2013,Male,Rural,17.9753305
+Papua Barat,2013,Male,Urban+Rural,19.29338809
+Papua Barat,2013,Female,Urban,20.90980734
+Papua Barat,2013,Female,Rural,19.37929679
+Papua Barat,2013,Female,Urban+Rural,19.87181695
+Papua Barat,2014,Male,Urban,21.99501369
+Papua Barat,2014,Male,Rural,18.26618296
+Papua Barat,2014,Male,Urban+Rural,19.45509673
+Papua Barat,2014,Female,Urban,22.90591975
+Papua Barat,2014,Female,Rural,20.91989544
+Papua Barat,2014,Female,Urban+Rural,21.55403319
+Papua Barat,2015,Male,Urban,19.48498473
+Papua Barat,2015,Male,Rural,18.99536254
+Papua Barat,2015,Male,Urban+Rural,19.18047485
+Papua Barat,2015,Female,Urban,23.60796298
+Papua Barat,2015,Female,Rural,20.57551057
+Papua Barat,2015,Female,Urban+Rural,21.72308645
+Papua Barat,2016,Male,Urban,15.51061265
+Papua Barat,2016,Male,Rural,20.54998947
+Papua Barat,2016,Male,Urban+Rural,18.61667556
+Papua Barat,2016,Female,Urban,16.06038482
+Papua Barat,2016,Female,Rural,21.06286067
+Papua Barat,2016,Female,Urban+Rural,19.13483978
+Papua Barat,2017,Male,Urban,19.67552884
+Papua Barat,2017,Male,Rural,18.62786813
+Papua Barat,2017,Male,Urban+Rural,19.037140870000002
+Papua Barat,2017,Female,Urban,23.15881782
+Papua Barat,2017,Female,Rural,22.18748624
+Papua Barat,2017,Female,Urban+Rural,22.56637347
+Papua Barat,2018,Male,Urban,21.66654057
+Papua Barat,2018,Male,Rural,22.09638701
+Papua Barat,2018,Male,Urban+Rural,21.92220238
+Papua Barat,2018,Female,Urban,27.26274418
+Papua Barat,2018,Female,Rural,24.40031658
+Papua Barat,2018,Female,Urban+Rural,25.57113288
+Papua Barat,2019,Male,Urban,22.2881766
+Papua Barat,2019,Male,Rural,25.02525099
+Papua Barat,2019,Male,Urban+Rural,23.86641841
+Papua Barat,2019,Female,Urban,25.34222017
+Papua Barat,2019,Female,Rural,27.29461948
+Papua Barat,2019,Female,Urban+Rural,26.47805276
+Papua Barat,2020,Male,Urban,17.73840575
+Papua Barat,2020,Male,Rural,22.22924227
+Papua Barat,2020,Male,Urban+Rural,20.32389916
+Papua Barat,2020,Female,Urban,21.27543402
+Papua Barat,2020,Female,Rural,23.64543474
+Papua Barat,2020,Female,Urban+Rural,22.65045524
+Papua Barat,2021,Male,Urban,25.97949512
+Papua Barat,2021,Male,Rural,15.58522808
+Papua Barat,2021,Male,Urban+Rural,20.0793086
+Papua Barat,2021,Female,Urban,27.00100995
+Papua Barat,2021,Female,Rural,17.33703874
+Papua Barat,2021,Female,Urban+Rural,21.45935724
+Papua Barat,2022,Male,Urban,16.80311782
+Papua Barat,2022,Male,Rural,19.9974913
+Papua Barat,2022,Male,Urban+Rural,18.6747656
+Papua Barat,2022,Female,Urban,21.00010503
+Papua Barat,2022,Female,Rural,22.01135305
+Papua Barat,2022,Female,Urban+Rural,21.58774514
+Papua Barat,2023,Male,Urban,16.5447765
+Papua Barat,2023,Male,Rural,15.09048074
+Papua Barat,2023,Male,Urban+Rural,15.69356192
+Papua Barat,2023,Female,Urban,20.2357116
+Papua Barat,2023,Female,Rural,15.92699036
+Papua Barat,2023,Female,Urban+Rural,17.71929836
+Papua,2009,Male,Urban,30.16
+Papua,2009,Male,Rural,33.94
+Papua,2009,Male,Urban+Rural,33.07
+Papua,2009,Female,Urban,29.69
+Papua,2009,Female,Rural,33.83
+Papua,2009,Female,Urban+Rural,32.89
+Papua,2010,Male,Urban,30.98
+Papua,2010,Male,Rural,32.67
+Papua,2010,Male,Urban+Rural,32.23
+Papua,2010,Female,Urban,30.01
+Papua,2010,Female,Rural,32.23
+Papua,2010,Female,Urban+Rural,31.65
+Papua,2011,Male,Urban,20.98
+Papua,2011,Male,Rural,27.45
+Papua,2011,Male,Urban+Rural,25.78
+Papua,2011,Female,Urban,28.49
+Papua,2011,Female,Rural,21.09
+Papua,2011,Female,Urban+Rural,26.57
+Papua,2012,Male,Urban,20.81
+Papua,2012,Male,Rural,24.13
+Papua,2012,Male,Urban+Rural,23.26
+Papua,2012,Female,Urban,21.78
+Papua,2012,Female,Rural,23.67
+Papua,2012,Female,Urban+Rural,23.19
+Papua,2013,Male,Urban,19.35575488
+Papua,2013,Male,Rural,18.68421584
+Papua,2013,Male,Urban+Rural,18.86022813
+Papua,2013,Female,Urban,19.76545283
+Papua,2013,Female,Rural,18.99870275
+Papua,2013,Female,Urban+Rural,19.19189204
+Papua,2014,Male,Urban,18.07277991
+Papua,2014,Male,Rural,18.6776857
+Papua,2014,Male,Urban+Rural,18.52044981
+Papua,2014,Female,Urban,18.00107512
+Papua,2014,Female,Rural,18.46766135
+Papua,2014,Female,Urban+Rural,18.34963002
+Papua,2015,Male,Urban,19.85549271
+Papua,2015,Male,Rural,16.45097878
+Papua,2015,Male,Urban+Rural,17.3721754
+Papua,2015,Female,Urban,22.71302824
+Papua,2015,Female,Rural,16.70529106
+Papua,2015,Female,Urban+Rural,18.25824521
+Papua,2016,Male,Urban,20.11279105
+Papua,2016,Male,Rural,14.71537426
+Papua,2016,Male,Urban+Rural,16.16354527
+Papua,2016,Female,Urban,23.23942912
+Papua,2016,Female,Rural,15.07035566
+Papua,2016,Female,Urban+Rural,17.16544568
+Papua,2017,Male,Urban,22.2151005
+Papua,2017,Male,Rural,14.46691069
+Papua,2017,Male,Urban+Rural,16.6033379
+Papua,2017,Female,Urban,23.01360663
+Papua,2017,Female,Rural,14.10179374
+Papua,2017,Female,Urban+Rural,16.4586207
+Papua,2018,Male,Urban,19.97747045
+Papua,2018,Male,Rural,16.38931408
+Papua,2018,Male,Urban+Rural,17.40215176
+Papua,2018,Female,Urban,21.03707896
+Papua,2018,Female,Rural,16.62021917
+Papua,2018,Female,Urban+Rural,17.8151688
+Papua,2019,Male,Urban,16.73503474
+Papua,2019,Male,Rural,14.16812101
+Papua,2019,Male,Urban+Rural,14.91978953
+Papua,2019,Female,Urban,18.69994258
+Papua,2019,Female,Rural,14.28980147
+Papua,2019,Female,Urban+Rural,15.51652194
+Papua,2020,Male,Urban,16.78582513
+Papua,2020,Male,Rural,15.85495901
+Papua,2020,Male,Urban+Rural,16.12744827
+Papua,2020,Female,Urban,17.50900505
+Papua,2020,Female,Rural,16.01841474
+Papua,2020,Female,Urban+Rural,16.43229995
+Papua,2021,Male,Urban,12.34055821
+Papua,2021,Male,Rural,12.32773557
+Papua,2021,Male,Urban+Rural,12.33147069
+Papua,2021,Female,Urban,14.19971264
+Papua,2021,Female,Rural,12.79822593
+Papua,2021,Female,Urban+Rural,13.19500987
+Papua,2022,Male,Urban,13.27224694
+Papua,2022,Male,Rural,9.452849808
+Papua,2022,Male,Urban+Rural,10.52255688
+Papua,2022,Female,Urban,14.57594269
+Papua,2022,Female,Rural,9.928039706
+Papua,2022,Female,Urban+Rural,11.20679268
+Papua,2023,Male,Urban,18.28708744
+Papua,2023,Male,Rural,10.26859454
+Papua,2023,Male,Urban+Rural,12.6322533
+Papua,2023,Female,Urban,18.994557790000002
+Papua,2023,Female,Rural,10.03223305
+Papua,2023,Female,Urban+Rural,12.65465816

@@ -1,0 +1,89 @@
+---
+title: "Data Cleaning"
+output: CSV
+date: "2024-06-23"
+---
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r}
+library(tidyr)
+library(dplyr)
+library(readr)
+library(ggplot2)
+```
+
+
+```{r}
+# Read the CSV file
+healthcomplaints <- read_csv("data_input/Percentage of Population Who Had Health Complaint during 2009-2023.csv")
+
+healthcomplaints
+```
+
+
+```{r}
+# Remove rows containing old column names
+healthcomplaints <- healthcomplaints %>%
+  filter(!is.na(Province))
+
+# Generate column names programmatically
+years <- 2009:2023
+genders <- c("Male", "Female")
+areas <- c("Urban", "Rural", "Urban+Rural")
+
+# Generate column names
+generated_colnames <- c("Province")
+for (year in years) {
+  for (gender in genders) {
+    for (area in areas) {
+      generated_colnames <- c(generated_colnames, paste(year, gender, area, sep = " "))
+    }
+  }
+}
+
+# Set the generated column names
+colnames(healthcomplaints) <- generated_colnames
+
+# Inspect the cleaned column names
+head(healthcomplaints)
+```
+
+```{r}
+# Use pivot_longer to reshape the dataset
+long_data <- healthcomplaints %>%
+  pivot_longer(
+    cols = -Province,
+    names_to = c("Year", "Gender", "Area_Type"),
+    names_pattern = "(\\d{4})\\s+(Male|Female)\\s+(.*)",
+    values_to = "Percentage"
+  )
+
+# Filter out rows where Percentage is NA
+long_data <- long_data %>%
+  filter(!is.na(Percentage))
+
+# Fill down missing values in the Province column
+long_data <- long_data %>%
+  fill(Province, .direction = "down")
+
+# Convert Percentage to numeric and Year to factor
+long_data <- long_data %>%
+  mutate(
+    Percentage = as.numeric(Percentage),
+    Year = as.factor(Year),
+    Gender = as.factor(Gender),
+    Area_Type = as.factor(Area_Type)
+  )
+
+# View the reshaped dataset
+print(long_data)
+```
+
+```{r}
+# Save cleaned dataset
+write_csv(long_data, "data_input/cleaned_healthcomplains.csv")
+```
