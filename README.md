@@ -118,7 +118,7 @@ output$heatmap_plot <- renderPlotly({
 ```
 
 
-# Where do you put your plot, valuebox, input, etc?
+# Where do I put your plot, valuebox, input, etc?
 Layout Design:
 - Header: Title and brief description of the dashboard.
 - Sidebar: Filters for year, gender, and area type.
