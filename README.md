@@ -120,11 +120,11 @@ output$heatmap_plot <- renderPlotly({
 
 # Where do you put your plot, valuebox, input, etc?
 Layout Design:
-•	Header: Title and brief description of the dashboard.
-•	Sidebar: Filters for year, gender, and area type.
-•	Main Panel:
-o	Page 1: Overview - Summary statistics and overall trends.
-o	Page 2: Trends Over Time - Line plots showing trends over the years.
-o	Page 3: Provincial Comparison - Bar plots comparing health complaints across provinces.
-o	Page 4: Distribution Analysis - Box plots showing the distribution of health complaints by area type and gender.
-o Page 5: Heatmap - Heatmap showing the intensity of health complaints across provinces over time.
+- Header: Title and brief description of the dashboard.
+- Sidebar: Filters for year, gender, and area type.
+- Main Panel:
+a. Page 1: Overview - Summary statistics and overall trends.
+b. Page 2: Trends Over Time - Line plots showing trends over the years.
+c. Page 3: Provincial Comparison - Bar plots comparing health complaints across provinces.
+d. Page 4: Distribution Analysis - Box plots showing the distribution of health complaints by area type and gender.
+e. Page 5: Heatmap - Heatmap showing the intensity of health complaints across provinces over time.
