@@ -123,8 +123,8 @@ Layout Design:
 - Header: Title and brief description of the dashboard.
 - Sidebar: Filters for year, gender, and area type.
 - Main Panel:
--- Page 1: Overview - Summary statistics and overall trends.
--- Page 2: Trends Over Time - Line plots showing trends over the years.
--- Page 3: Provincial Comparison - Bar plots comparing health complaints across provinces.
--- Page 4: Distribution Analysis - Box plots showing the distribution of health complaints by area type and gender.
--- Page 5: Heatmap - Heatmap showing the intensity of health complaints across provinces over time.
+- Page 1: Overview - Summary statistics and overall trends.
+- Page 2: Trends Over Time - Line plots showing trends over the years.
+- Page 3: Provincial Comparison - Bar plots comparing health complaints across provinces.
+- Page 4: Distribution Analysis - Box plots showing the distribution of health complaints by area type and gender.
+- Page 5: Heatmap - Heatmap showing the intensity of health complaints across provinces over time.
