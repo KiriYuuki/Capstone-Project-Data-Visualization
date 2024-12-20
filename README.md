@@ -10,7 +10,7 @@ Problem Statement: The dashboard aims to provide insights into how health compla
 Story to Tell: The story focuses on highlighting trends and disparities in health complaints, understanding which provinces or demographics are most affected, and tracking changes over time.
 
 
-# Who is the user of your dashboard?
+# Who is the user of my dashboard?
 
 The primary users of this dashboard are policymakers, public health officials, and healthcare providers. These users need to make data-driven decisions to allocate resources, design interventions, and monitor the effectiveness of health programs.
 
@@ -118,7 +118,7 @@ output$heatmap_plot <- renderPlotly({
 ```
 
 
-# Where do I put your plot, valuebox, input, etc?
+# Where do I put my plot, valuebox, input, etc?
 Layout Design:
 - Header: Title and brief description of the dashboard.
 - Sidebar: Filters for year, gender, and area type.
